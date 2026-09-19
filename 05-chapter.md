@@ -2,7 +2,7 @@
 
 ### § 146f
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Predbežné otázky
 >
 > (1) Ak sa v konaní vyskytne otázka, o ktorej už právoplatne rozhodol príslušný orgán, je služobný orgán, ktorý vo veci koná, takým rozhodnutím viazaný; inak si služobný orgán môže o takejto otázke urobiť úsudok alebo dá príslušnému orgánu podnet na začatie konania.
@@ -13,7 +13,7 @@ Ustanovenie upravuje procesný inštitút predbežnej otázky, teda situáciu, k
 
 ### § 147
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zabezpečenie priebehu a účelu konania
 >
 > Predvolanie
@@ -28,7 +28,7 @@ Ustanovenie otvára skupinu paragrafov venovaných procesným nástrojom, ktorý
 
 ### § 147a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Predbežné opatrenia
 >
 > (1) Služobný orgán môže pred skončením konania v rozsahu nevyhnutne potrebnom na zabezpečenie jeho účelu
@@ -43,7 +43,7 @@ Predbežné opatrenie predstavuje dočasný, zabezpečovací procesný inštitú
 
 ### § 147b
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Dožiadanie
 >
 > Ak služobný orgán, ktorý vo veci koná, nemôže vykonať procesný úkon sám, alebo ak je to účelné z iných dôvodov, môže o jeho vykonanie dožiadať iný služobný úrad; dožiadaný služobný úrad vykoná tento úkon bezodkladne. Na príslušníka alebo zamestnanca dožiadaného služobného úradu, ktorý bude vykonávať dožiadaný procesný úkon, sa vzťahujú ustanovenia § 144a až 144d.
@@ -52,7 +52,7 @@ Dožiadanie je nástrojom procesnej spolupráce medzi jednotlivými služobnými
 
 ### § 147c
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Poriadkové opatrenia
 >
 > Toho, kto hrubo ruší poriadok, môže služobný orgán vykázať z miesta pojednávania; ak je vykázaný účastník konania, môže sa konať v jeho neprítomnosti.
@@ -61,7 +61,7 @@ Ustanovenie zveruje služobnému orgánu oprávnenie na udržanie poriadku a dô
 
 ### § 148
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Náklady konania
 >
 > (1) Náklady konania, ktoré vznikli služobnému orgánu, uhrádza tento orgán. Náklady konania, ktoré vznikli účastníkovi konania, znáša účastník konania.
@@ -78,7 +78,7 @@ Ustanovenie upravuje pravidlá znášania a náhrady nákladov konania vo veciac
 
 ### § 148a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Prerušenie konania
 >
 > (1) Služobný orgán konanie preruší, ak
@@ -100,7 +100,7 @@ Ustanovenie rozlišuje obligatórne a fakultatívne dôvody prerušenia konania 
 
 ### § 149
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zastavenie konania
 >
 > (1) Služobný orgán konanie zastaví, ak
@@ -121,7 +121,7 @@ Zastavenie konania je procesným inštitútom, ktorým sa konanie končí bez me
 
 ### § 150
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Personálny rozkaz a rozhodnutie
 >
 > V konaní sa rozhoduje
@@ -138,7 +138,7 @@ Ustanovenie zavádza dvojkoľajnosť foriem, ktorými služobný orgán vo vecia
 
 ### § 150a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Služobný orgán je povinný umožniť účastníkovi konania vyjadriť sa pred vydaním rozhodnutia k podkladu rozhodnutia, ako aj k spôsobu jeho zistenia a navrhnúť jeho doplnenie.
 >
 > (2) Rozhodnutie musí byť v súlade so všeobecne záväznými právnymi predpismi a služobnými predpismi, musí vychádzať zo spoľahlivo zisteného stavu veci a obsahovať výrok, odôvodnenie a poučenie o odvolaní, ak nie je ustanovené inak. V písomnom vyhotovení rozhodnutia sa tiež uvedie, kto rozhodnutie vydal, dátum vydania rozhodnutia a označenie účastníka konania. Rozhodnutie musí byť podpísané s uvedením hodnosti, mena, priezviska a funkcie toho, kto ho vydal, opatrené odtlačkom pečiatky so štátnym znakom Slovenskej republiky a oznámené účastníkovi konania.
@@ -155,7 +155,7 @@ Ustanovenie predstavuje jadro procesných záruk vzťahujúcich sa na vydávanie
 
 ### § 151
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Lehota na rozhodnutie
 >
 > V jednoduchých veciach, najmä ak možno rozhodnúť na základe dokladov predložených účastníkom konania, je potrebné rozhodnúť bez zbytočného odkladu. V ostatných veciach je potrebné rozhodnúť do 30 dní od začatia konania; v osobitne zložitých veciach do 60 dní od začatia konania. Ak nemožno vzhľadom na povahu veci rozhodnúť ani v tejto lehote, môže ju primerane predĺžiť orgán, ktorý je príslušný na rozhodovanie o odvolaní (ďalej len „odvolací orgán"). Ak služobný orgán nemôže rozhodnúť do 30 dní, prípadne do 60 dní, je povinný o tom účastníka konania s uvedením dôvodov upovedomiť.
@@ -164,7 +164,7 @@ Ustanovenie stanovuje diferencovaný systém lehôt na rozhodnutie odstupňovan�
 
 ### § 152
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Oznámenie rozhodnutia
 >
 > (1) Rozhodnutie sa účastníkovi konania oznamuje doručením písomného vyhotovenia tohto rozhodnutia do vlastných rúk. Deň doručenia rozhodnutia je dňom jeho oznámenia, ak tento zákon neustanovuje inak.
@@ -175,7 +175,7 @@ Ustanovenie určuje spôsob a okamih oznámenia rozhodnutia, ktorý má zásadn�
 
 ### § 152a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Doručovanie do vlastných rúk
 >
 > (1) Dôležité písomnosti v konaní, najmä rozhodnutia, sa doručujú do vlastných rúk účastníkovi konania alebo osobe, ktorá sa preukáže jeho splnomocnením na preberanie zásielok.
@@ -190,7 +190,7 @@ Ustanovenie podrobne upravuje mechanizmus doručovania dôležitých písomnost�
 
 ### § 153
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Právoplatnosť a vykonateľnosť rozhodnutia
 >
 > (1) Rozhodnutie, proti ktorému sa nemožno odvolať, je právoplatné.
@@ -205,7 +205,7 @@ Ustanovenie definuje dva kľúčové, navzájom odlišné právne pojmy - právo
 
 ### § 154
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > PRESKÚMANIE ROZHODNUTIA
 >
 > Odvolacie konanie
@@ -230,7 +230,7 @@ Ustanovenie otvára systematický oddiel venovaný preskúmaniu rozhodnutia a up
 
 ### § 154a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Služobný orgán, ktorý napadnuté rozhodnutie vydal, upovedomí ostatných účastníkov konania o obsahu podaného odvolania, vyzve ich, aby sa k nemu vyjadrili a podľa potreby doplní konanie vykonaním novonavrhnutých dôkazov.
 >
 > (2) Služobný orgán, ktorý napadnuté rozhodnutie vydal, môže o odvolaní sám rozhodnúť, ak odvolaniu v plnom rozsahu vyhovie a ak sa rozhodnutie netýka iného účastníka konania ako odvolateľa, alebo ak s tým ostatní účastníci konania súhlasia. Ak tak neurobí, je povinný bez zbytočného odkladu, najneskôr však do 30 dní odo dňa doručenia odvolania, predložiť odvolanie spolu s výsledkami doplneného konania a so spisovým materiálom odvolaciemu orgánu. O tejto skutočnosti upovedomí účastníka konania.
@@ -257,7 +257,7 @@ Ustanovenie podrobne upravuje priebeh odvolacieho konania v jeho dvoch fázach -
 
 ### § 155
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Rozklad
 >
 > Proti rozhodnutiu ministra, ak nejde o rozhodnutie o odvolaní, možno podať rozklad. O rozklade rozhoduje minister na základe návrhu ním ustanovenej osobitnej komisie. Proti tomuto rozhodnutiu sa nemožno odvolať. Na rozklad a konanie o ňom sa primerane vzťahujú ustanovenia o odvolaní.
@@ -266,7 +266,7 @@ Rozklad predstavuje osobitný riadny opravný prostriedok uplatniteľný výluč
 
 ### § 156
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Obnova konania
 >
 > (1) Konanie možno obnoviť na návrh účastníka konania alebo z podnetu služobného orgánu, ak dodatočne vyjdú najavo nové skutočnosti alebo dôkazy, ktoré neboli účastníkovi konania alebo služobnému orgánu bez jeho viny v čase konania známe, nemohol ich uplatniť a ktoré mohli mať podstatný vplyv na rozhodnutie.
@@ -281,7 +281,7 @@ Obnova konania je mimoriadnym opravným prostriedkom, ktorý umožňuje prelomi�
 
 ### § 156a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Obnovu konania povolí na návrh účastníka konania alebo z vlastného podnetu služobný orgán, ktorý vo veci rozhodol v poslednom stupni.
 >
 > (2) Proti rozhodnutiu o obnove konania možno podať odvolanie alebo rozklad. Rozhodnutie o povolení obnovy konania má odkladný účinok, pokiaľ sa napadnuté rozhodnutie ešte nevykonalo.
@@ -290,7 +290,7 @@ Ustanovenie určuje príslušnosť na rozhodovanie o povolení obnovy konania a 
 
 ### § 156b
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Nové konanie vo veci uskutoční orgán, ktorého rozhodnutia sa dôvod obnovy konania týka; ak sa dôvod obnovy konania týka rozhodnutia orgánu uvedeného v § 138, ako aj odvolacieho orgánu, nové konanie uskutoční služobný orgán, ktorý konal v prvom stupni.
 >
 > (2) Novým rozhodnutím vo veci sa pôvodné rozhodnutie zrušuje.
@@ -301,7 +301,7 @@ Ustanovenie upravuje priebeh a dôsledky samotného nového konania nasledujúce
 
 ### § 157
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Preskúmanie rozhodnutia mimo odvolacieho konania
 >
 > (1) Rozhodnutie, ktoré je právoplatné, môže z vlastného alebo iného podnetu preskúmať odvolací orgán, a ak ide o rozhodnutie ministra, minister na základe návrhu ním ustanovenej osobitnej komisie. Podnetu účastníka konania na preskúmanie rozhodnutia môže v plnom rozsahu vyhovieť aj služobný orgán, ktorý rozhodnutie vydal, ak sa rozhodnutie netýka iného účastníka konania alebo ak s tým súhlasia ostatní účastníci konania.
@@ -318,7 +318,7 @@ Preskúmanie rozhodnutia mimo odvolacieho konania je druhým mimoriadnym opravn�
 
 ### § 158
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Preskúmanie rozhodnutia správnym súdom
 >
 > Správna žaloba na preskúmanie právoplatného rozhodnutia vo veciach služobného pomeru sa musí podať do jedného mesiaca odo dňa doručenia rozhodnutia odvolacieho orgánu.
@@ -327,7 +327,7 @@ Ustanovenie uzatvára oddiel venovaný preskúmaniu rozhodnutia úpravou posledn
 
 ### § 159
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > DESIATA HLAVA
 >
 > ČINNOSŤ ODBOROVÝCH ORGÁNOV
@@ -358,7 +358,7 @@ Ustanovenie otvára desiatu hlavu zákona venovanú činnosti odborových orgán
 
 ### § 160
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Člen príslušného odborového orgánu, člen personálnej rady alebo personálny dôverník sú chránení proti opatreniam, ktoré by ich mohli poškodzovať vrátane skončenia služobného pomeru a ktoré by boli motivované ich postavením alebo činnosťou.
 >
 > (2) Príslušník, ktorý bol zvolený do funkcie vo vyššom odborovom orgáne, ktorej vykonávanie vyžaduje uvoľnenie od plnenia povinností vyplývajúcich zo služobného pomeru v rozsahu určeného služobného času, zaradí sa počas vykonávania tejto funkcie mimo činnej štátnej služby. Počas zaradenia príslušníka mimo činnej štátnej služby z tohto dôvodu mu patrí služobný plat len vtedy, ak vykonáva funkciu vo vyššom odborovom orgáne odborového zväzu, ktorý združuje viac ako 1 000 príslušníkov.
@@ -367,7 +367,7 @@ Ustanovenie dopĺňa úpravu činnosti odborových orgánov o dve osobitné ochr
 
 ### § 161
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > JEDENÁSTA HLAVA
 >
 > BEZPEČNOSŤ A OCHRANA ZDRAVIA PRI VYKONÁVANÍ SLUŽBY
@@ -418,7 +418,7 @@ Ustanovenie otvára jedenástu hlavu zákona venovanú bezpečnosti a ochrane zd
 
 ### § 162
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ministerstvo upraví služobným predpisom bezpečnosť práce
 > a) príslušníkov Hasičského a záchranného zboru pri zdolávaní požiarov, pri poskytovaní pomoci a pri vykonávaní záchranných prác pri haváriách a iných nežiaducich udalostiach,1a)
 > b) príslušníkov Horskej záchrannej služby pri poskytovaní pomoci, pri vykonávaní záchranných prác v horských oblastiach a iných mimoriadnych udalostiach.
@@ -427,7 +427,7 @@ Ustanovenie uzatvára jedenástu hlavu zákona splnomocňovacím ustanovením zv
 
 ### § 172
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > TRETIA ČASŤ
 >
 > SOCIÁLNE ZABEZPEČENIE PRÍSLUŠNÍKOV, NEMOCENSKÉ ZABEZPEČENIE PRÍSLUŠNÍKOV
@@ -442,7 +442,7 @@ Ustanovenie otvára tretiu časť zákona venovanú sociálnemu a nemocenskému 
 
 ### § 174
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > ŠTVRTÁ ČASŤ
 >
 > SPOLOČNÉ USTANOVENIA
@@ -459,7 +459,7 @@ Ustanovenie otvára štvrtú časť zákona obsahujúcu spoločné ustanovenia a
 
 ### § 175
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Lehoty
 >
 > (1) Lehota začína plynúť odo dňa, keď sa právo mohlo uplatniť po prvý raz.
@@ -482,7 +482,7 @@ Ustanovenie nadväzuje na všeobecnú úpravu premlčania a zániku práva podľ
 
 ### § 176
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zabezpečenie práv a povinností zo služobného pomeru
 >
 > (1) Uspokojenie práva služobného úradu možno zabezpečiť rozhodnutím o zrážkach zo služobného platu príslušníka; zrážky zo služobného platu nesmú byť väčšie, ako by boli zrážky pri výkone rozhodnutia.
@@ -505,7 +505,7 @@ Ustanovenie upravuje dva nástroje zabezpečenia práv a povinností zo služobn
 
 ### § 177
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Prechod práv a povinností zo služobného pomeru
 >
 > Zánik služobného úradu zlúčením, splynutím alebo rozdelením
@@ -518,7 +518,7 @@ Ustanovenie otvára oddiel venovaný prechodu práv a povinností zo služobnéh
 
 ### § 178
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Prevod časti služobného úradu
 >
 > (1) Ak sa na základe osobitného zákona prevádza časť služobného úradu do iného služobného úradu, práva a povinnosti zo služobného pomeru voči príslušníkom tejto časti služobného úradu prechádzajú na preberajúci služobný úrad.
@@ -529,7 +529,7 @@ Ustanovenie dopĺňa úpravu organizačných zmien o prípad, keď nezaniká cel
 
 ### § 179
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zrušenie služobného úradu
 >
 > Ak sa na základe osobitného zákona služobný úrad zruší, osobitný zákon ustanoví, na ktorý služobný úrad prechádzajú práva a povinnosti zo služobného pomeru príslušníka zrušeného služobného úradu a ktorý služobný úrad je povinný v mene štátu uspokojiť práva príslušníka zrušeného služobného úradu alebo uplatňovať jeho práva.
@@ -538,7 +538,7 @@ Ustanovenie dopĺňa trojicu úprav organizačných zmien služobných úradov o
 
 ### § 180
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zánik práv a povinností zo služobného pomeru
 >
 > (1) Uspokojením právo zanikne.
@@ -577,7 +577,7 @@ Ustanovenie predstavuje najobsiahlejšiu, komplexnú úpravu zániku práv a pov
 
 ### § 181
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Uplynutie času
 >
 > Práva a povinnosti zaniknú uplynutím času, na ktorý boli obmedzené.
@@ -586,7 +586,7 @@ Ustanovenie zakotvuje ďalší, samostatný spôsob zániku práv a povinností 
 
 ### § 182
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Smrť príslušníka
 >
 > (1) Peňažné nároky príslušníka jeho smrťou nezanikajú; do trojnásobku jeho služobného platu zo služobného pomeru prechádzajú platové nároky postupne priamo na jeho manžela, deti a rodičov, ak s ním žili v čase jeho smrti v domácnosti;19) predmetom dedičstva sa stávajú, ak niet týchto osôb.
@@ -597,7 +597,7 @@ Ustanovenie upravuje osudy peňažných nárokov v prípade smrti príslušníka
 
 ### § 183
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Osobitné ustanovenie o bývalom príslušníkovi, ktorý musí mať opatrovníka
 >
 > Ak ide o právo bývalého príslušníka, ktorý musí mať opatrovníka, alebo o právo proti nemu, nezapočítava sa do lehoty ustanovenej na uplatnenie práva čas, na ktorý mu nebol ustanovený opatrovník.
@@ -606,7 +606,7 @@ Ustanovenie chráni bývalého príslušníka, ktorý vzhľadom na svoj zdravotn
 
 ### § 184
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Počítanie času
 >
 > (1) Lehota určená podľa dní sa začína dňom, ktorý nasleduje po udalosti, ktorá je rozhodujúca pre jej začiatok.
@@ -623,7 +623,7 @@ Ustanovenie zavádza všeobecné, technické pravidlá počítania času uplatň
 
 ### § 185
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zastúpenie
 >
 > Služobný úrad sa môže dať zastúpiť podľa osobitného predpisu.25)
@@ -632,7 +632,7 @@ Ustanovenie uzatvára piatu hlavu štvrtej časti zákona stručným splnomocňo
 
 ### § 189
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > PIATA ČASŤ
 >
 > KOLEKTÍVNE VYJEDNÁVANIE V ŠTÁTNEJ SLUŽBE
@@ -649,7 +649,7 @@ Ustanovenie otvára piatu časť zákona venovanú kolektívnemu vyjednávaniu v
 
 ### § 190
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Postup pri uzatváraní kolektívnej zmluvy vyššieho stupňa
 >
 > (1) Kolektívne vyjednávanie sa začína predložením písomného návrhu na uzatvorenie kolektívnej zmluvy vyššieho stupňa jednou zo zmluvných strán druhej zmluvnej strane. Druhá zmluvná strana je povinná začať vyjednávanie do 30 dní po predložení písomného návrhu.
@@ -662,7 +662,7 @@ Ustanovenie upravuje procesný postup uzatvárania kolektívnej zmluvy vyššieh
 
 ### § 191
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Kolektívny spor
 >
 > (1) Kolektívny spor podľa tohto zákona je spor o uzatvorenie kolektívnej zmluvy vyššieho stupňa.
@@ -677,7 +677,7 @@ Ustanovenie upravuje riešenie kolektívneho sporu, ktorý môže v procese kole
 
 ### § 193
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > ŠIESTA ČASŤ
 >
 > SPOLOČNÉ, PRECHODNÉ A ZÁVEREČNÉ USTANOVENIA
@@ -688,14 +688,14 @@ Ustanovenie otvára šiestu, záverečnú časť zákona obsahujúcu spoločné,
 
 ### § 193a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ustanovenia § 1 ods. 1, § 2 až 11, § 13 ods. 1 písm. b), § 21 ods. 5, § 22 ods. 1, § 24, § 25 ods. 1 až 4, § 26 a 27, § 29 ods. 4, § 32 a 33, § 49 ods. 2, § 92 ods. 5, § 96 ods. 1, § 99 písm. d), § 101, § 103 ods. 5 časti vety za druhou spojkou, § 122 ods. 4, § 194 až 198a a § 200 až 209 sa nevzťahujú na príslušníka Horskej záchrannej služby.
 
 Ustanovenie zakotvuje rozsiahlu negatívnu delimitáciu pôsobnosti niektorých ustanovení tohto zákona vo vzťahu k príslušníkom Horskej záchrannej služby, čím zohľadňuje odlišnú povahu, organizáciu a spôsob výkonu ich štátnej služby v porovnaní s príslušníkmi Hasičského a záchranného zboru. Taxatívne vymenované ustanovenia, ktoré sa na príslušníka Horskej záchrannej služby nevzťahujú, zahŕňajú okrem iného časti úvodných, všeobecných ustanovení zákona (§ 1 ods. 1, § 2 až 11), niektoré ustanovenia upravujúce vznik a priebeh štátnej služby (§ 13 ods. 1 písm. b), § 21 ods. 5, § 22 ods. 1, § 24 až 27, § 29 ods. 4, § 32 a 33), ustanovenia týkajúce sa niektorých osobitných povinností a organizačných otázok (§ 49 ods. 2, § 92 ods. 5, § 96 ods. 1, § 99 písm. d), § 101, § 103 ods. 5 časti vety za druhou spojkou, § 122 ods. 4), ako aj celý blok prechodných ustanovení upravujúcich transformáciu predchádzajúcich zborov a útvarov na súčasť Hasičského a záchranného zboru (§ 194 až 198a) a záverečných ustanovení (§ 200 až 209). Dôvodom tejto výluky je skutočnosť, že Horská záchranná služba má voči Hasičskému a záchrannému zboru špecifické organizačné, personálne aj historické väzby a mnohé z vylúčených ustanovení sa svojím obsahom viažu výlučne na okolnosti alebo procesy typické pre hasičský zbor (napríklad na transformáciu bývalých mestských požiarnych zborov alebo vojenských útvarov civilnej ochrany), ktoré sa Horskej záchrannej služby netýkajú, prípadne na organizačné inštitúty, ktoré má Horská záchranná služba upravené odlišne alebo osobitným predpisom. Rozsiahly rozsah tejto výnimky tak odráža legislatívnu techniku spoločnej úpravy dvoch odlišných zborov v jednom zákone, ktorá si vyžaduje presné vymedzenie, ktoré časti spoločnej úpravy sa na ktorý z nich vzťahujú v plnom rozsahu a ktoré naopak nie.
 
 ### § 194
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Mestský požiarny zbor mesta Košice zriadený podľa doterajších predpisov sa od 1. apríla 2002 stáva súčasťou zboru.
 >
 > (2) Príslušník, ktorý ku dňu účinnosti tohto zákona bol príslušníkom Zboru požiarnej ochrany, alebo zamestnanec, ktorý bol ku dňu účinnosti tohto zákona zamestnancom Mestského požiarneho zboru mesta Košice (ďalej len „zamestnanec") počas najmenej dvoch rokov, plní úlohy uvedené v § 3 a § 12 ods. 3 a spĺňa podmienky ustanovené v § 17, stáva sa na základe vymenovania a po zložení služobnej prísahy príslušníkom v stálej štátnej službe.
@@ -708,7 +708,7 @@ Ustanovenie upravuje prechod bývalého Mestského požiarneho zboru mesta Koši
 
 ### § 194a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Vojenské záchranné útvary civilnej ochrany (ďalej len „vojská civilnej ochrany") sa po transformácii od 1. januára 2003 stávajú súčasťou zboru ako jeho zariadenia.
 >
 > (2) Profesionálny vojak vojsk civilnej ochrany v stálom služobnom pomere alebo v dočasnom služobnom pomere, zamestnanec vojsk civilnej ochrany alebo zamestnanec úradu civilnej ochrany ministerstva (ďalej len „zamestnanec ministerstva"), ktorí budú plniť úlohy uvedené v § 3 a § 12 ods. 3 a ktorí boli k 31. decembru 2002 profesionálnymi vojakmi vojsk civilnej ochrany alebo zamestnancami ministerstva počas najmenej dvoch bezprostredne predchádzajúcich rokov, ktorí sa podieľali na zabezpečovaní činnosti vojsk civilnej ochrany počas najmenej dvoch bezprostredne predchádzajúcich rokov a spĺňajú podmienky ustanovené v § 17 okrem podmienky osobitnej odbornej spôsobilosti, stávajú sa na základe vymenovania a po zložení služobnej prísahy príslušníkmi v dočasnej štátnej službe podľa tohto zákona.
@@ -721,7 +721,7 @@ Ustanovenie upravuje obdobný prechodný proces transformácie vojenských zách
 
 ### § 194b
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Mestský Hasičský a záchranný zbor hlavného mesta Slovenskej republiky Bratislavy zriadený podľa doterajších predpisov sa od 1. januára 2003 stáva súčasťou zboru ako Hasičský a záchranný útvar hlavného mesta Slovenskej republiky Bratislavy zriadený ministerstvom ako osobitné zariadenie zboru; na riadení tohto útvaru sa hlavné mesto Slovenskej republiky Bratislava spolupodieľa.
 >
 > (2) Zamestnanec obce, ktorý bol aspoň dva bezprostredne predchádzajúce roky k 31. decembru 2002 zamestnancom obce v Mestskom požiarnom zbore hlavného mesta Slovenskej republiky Bratislavy a po 1. apríli 2002 zamestnancom obce v Mestskom hasičskom a záchrannom zbore hlavného mesta Slovenskej republiky Bratislavy vo verejnej službe (ďalej len „zamestnanec obce"), bude plniť úlohy uvedené v § 3 a § 12 ods. 3 a spĺňa podmienky ustanovené v § 17, stáva sa na základe vymenovania a po zložení služobnej prísahy príslušníkom v stálej štátnej službe.
@@ -734,7 +734,7 @@ Ustanovenie upravuje tretiu z prechodných transformácií predchádzajúcich ha
 
 ### § 195
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Príslušník, ktorý ku dňu účinnosti tohto zákona bol príslušníkom Zboru požiarnej ochrany, alebo zamestnanec, ktorý plní úlohy uvedené v § 3 a § 12 ods. 3, spĺňa podmienky ustanovené v § 17 a odpracoval menej ako bezprostredne predchádzajúce dva roky v Zbore požiarnej ochrany alebo v Mestskom požiarnom zbore mesta Košice, stáva sa na základe vymenovania a po zložení služobnej prísahy príslušníkom v prípravnej štátnej službe.
 >
 > (2) Príslušník, ktorý ku dňu účinnosti tohto zákona bol príslušníkom Zboru požiarnej ochrany, alebo zamestnanec, ktorý plní úlohy uvedené v § 3 ods. 1 písm. c) až e), spĺňa podmienky ustanovené v § 17 okrem podmienky požadovaného kvalifikačného predpokladu vzdelania, je zaradený do funkcie najvyššie pre 4. platovú triedu a na výkon funkcie potrebuje osobitné oprávnenie, odpracoval aspoň dva bezprostredne predchádzajúce roky v služobnom úrade alebo u jeho právneho predchodcu, stáva sa na základe vymenovania a po zložení služobnej prísahy príslušníkom v prípravnej štátnej službe, ak

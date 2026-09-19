@@ -2,7 +2,7 @@
 
 ### § 31
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Príbuzenské a iné obdobné vzťahy príslušníkov v služobnom pomere
 >
 > (1) Príslušníkov, ktorí sú blízkymi osobami podľa osobitného predpisu, 16) nemožno zaradiť do štátnej služby tak, aby jeden bol priamo podriadený druhému alebo podliehal jeho pokladničnej alebo účtovnej kontrole.
@@ -17,7 +17,7 @@ Odseky 2 a 3 zavádzajú obojstrannú, časovo odstupňovanú oznamovaciu povinn
 
 ### § 32
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Rovnošata a ostatné zložky výstroja
 >
 > (1) Príslušníkovi patrí rovnošata a jej súčasti.
@@ -34,7 +34,7 @@ Odsek 4 ustanovuje pravidlo, že štátna služba sa vykonáva spravidla v rovno
 
 ### § 33
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > § 33
 >
 > (1) Pri vzniku služobného pomeru patria príslušníkovi bezplatne tieto naturálne náležitosti:
@@ -63,7 +63,7 @@ Hodnota rovnošaty nie je fixovaná priamo zákonom, ale je každoročne stanovo
 
 ### § 34
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Hodnosti
 >
 > (1) Príslušníkovi patrí hodnosť.
@@ -111,7 +111,7 @@ Odsek 4 taxatívne vymenúva prekážky, ktoré prerušujú plynutie výsluhy ro
 
 ### § 35
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Vymenovanie do hodnosti a povýšenie do hodnosti
 >
 > § 35
@@ -141,7 +141,7 @@ Osobitný, praxou motivovaný mechanizmus zavádza odsek 5 v spojení s odsekom 
 
 ### § 36
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > § 36
 >
 > (1) Príslušník, ktorý už bol v služobnom pomere podľa tohto zákona, je pri opätovnom prijatí vymenovaný do poslednej dosiahnutej hodnosti, ak je pre túto funkciu takáto hodnosť plánovaná. Ak je to pre príslušníka výhodnejšie, možno ho vymenovať do hodnosti podľa § 35 ods. 5. Ak mu však v predchádzajúcom služobnom pomere uplynul čas výsluhy rokov v hodnosti, možno ho vymenovať do najbližšej vyššej hodnosti, ak nie je vyššia ako hodnosť plánovaná pre funkciu, do ktorej sa prijíma.
@@ -154,7 +154,7 @@ Odsek 2 upravuje odlišnú kategóriu - osoby prichádzajúce z príbuzných zlo
 
 ### § 37
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > § 37
 >
 > (1) Príslušník má nárok na povýšenie do vyššej hodnosti, ak spĺňa súčasne tieto podmienky:
@@ -174,7 +174,7 @@ Odseky 2 a 3 riešia osobitnú situáciu prechodu z práporčíckeho do dôstojn
 
 ### § 38
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > § 38
 >
 > Návrh na vymenovanie príslušníka do hodnosti generála predkladá prezidentovi Slovenskej republiky vláda.
@@ -183,7 +183,7 @@ Vymenovanie do najvyššej, generálskej hodnosti je vyňaté z bežného person
 
 ### § 39
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Prepožičanie hodnosti
 >
 > § 39
@@ -200,7 +200,7 @@ Odsek 2 stanovuje horný limit prepožičanej hodnosti, ktorým je najvyššia h
 
 ### § 40
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Služobné hodnotenie
 >
 > § 40
@@ -240,7 +240,7 @@ Zákon rozlišuje dva režimy vykonávania hodnotenia s odlišným účelom aj o
 
 ### § 41
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > § 41
 >
 > (1) O služobnom hodnotení príslušníka rozhoduje vedúci služobného úradu na základe písomného návrhu, ktorý vypracúva ním zriadená komisia. Služobné hodnotenie podľa návrhu komisie pripravuje pre vedúceho služobného úradu osobný úrad.
@@ -257,7 +257,7 @@ Kľúčovou procesnou zárukou je odsek 2, ktorý komisii ukladá povinnosť umo
 
 ### § 44
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > § 44
 >
 > (1) Služobné hodnotenie platí odo dňa jeho vykonateľnosti až do dňa vykonateľnosti nového služobného hodnotenia. Navrhované opatrenia v služobnom pomere príslušníka, ku ktorým má v tomto období dôjsť, sa vykonajú na základe platného služobného hodnotenia.
@@ -272,7 +272,7 @@ Odsek 2 ustanovuje archivačnú povinnosť zakladania hodnotenia do osobného sp
 
 ### § 45
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zmena služobného pomeru
 >
 > § 45
@@ -293,7 +293,7 @@ Systematicky ustanovenie funguje ako rozcestník k podrobnej úprave jednotlivý
 
 ### § 46
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > § 46
 >
 > Zmenu služobného pomeru vykoná písomným rozhodnutím vedúci služobného úradu, ktorý je príslušný podľa § 13 ods. 1, ak tento zákon neustanovuje inak.
@@ -304,7 +304,7 @@ Príslušnosť na vydanie rozhodnutia je viazaná na vedúceho služobného úra
 
 ### § 47
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Preradenie a preloženie
 >
 > § 47
@@ -336,7 +336,7 @@ Ustanovenie upravuje dva najfrekventovanejšie typy organizačných zmien služo
 
 ### § 48
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Prevelenie
 >
 > § 48
@@ -353,7 +353,7 @@ Procesne sa prevelenie vykonáva personálnym rozkazom vedúceho služobného ú
 
 ### § 49
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Vymenovanie za nadriadeného a zastupovanie nadriadeného
 >
 > § 49
@@ -393,7 +393,7 @@ Odseky 4 a 5 riešia dočasnú absenciu nadriadeného prostredníctvom dvojstup�
 
 ### § 50
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Odvolanie nadriadeného
 >
 > § 50
@@ -417,7 +417,7 @@ Ustanovenie upravuje mechanizmus ukončenia výkonu funkcie nadriadeného, prič
 
 ### § 51
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zaradenie príslušníka mimo činnej štátnej služby
 >
 > § 51
@@ -432,7 +432,7 @@ Odsek 2 upravuje odlišnú situáciu čerpania rodičovskej dovolenky, ktorá sa
 
 ### § 52
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > § 52
 >
 > (1) Ak sa v systemizácii znížili počty funkčných miest v stálej štátnej službe, služobný pomer príslušníka v stálej štátnej službe sa nekončí. Príslušník v stálej štátnej službe, ktorého funkčné miesto sa zrušilo, sa zaradí mimo činnej štátnej služby, ak písomne nesúhlasil s preložením, s preradením alebo s preložením a preradením na inú voľnú funkciu v služobnom úrade, v ktorom je zaradený, alebo ho nie je možné preradiť alebo preložiť, alebo preradiť a preložiť na inú voľnú funkciu v služobnom úrade, v ktorom je zaradený, najdlhšie však na 18 mesiacov.
@@ -472,7 +472,7 @@ Hospodárske dôsledky zaradenia sú diferencované podľa závažnosti a povahy
 
 ### § 53
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > § 53
 >
 > (1) Zaradenie príslušníka vyslaného na denné štúdium mimo činnej štátnej služby sa vykoná dňom povolania alebo vyslania na štúdium a trvá do skončenia alebo prerušenia štúdia.
@@ -485,7 +485,7 @@ Odsek 2 rieši formálno-organizačnú stránku tohto zaradenia - príslušník 
 
 ### § 53a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > § 53a
 >
 > (1) Príslušníka možno s jeho súhlasom vyslať na vykonávanie štátnej služby v zahraničí na plnenie úloh v misii. Doba jeho vyslania je najmenej šesť mesiacov a najviac štyri roky, pričom o skrátení, skončení alebo o predĺžení vyslania rozhoduje vedúci služobného úradu.
@@ -500,7 +500,7 @@ Zaradenie mimo činnej štátnej služby v tomto prípade nastáva automaticky a
 
 ### § 54
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Dôvody vylučujúce vykonávanie štátnej služby
 >
 > § 54
@@ -517,7 +517,7 @@ Odsek 2 rieši rodinno-solidárnu situáciu, keď príslušník nasleduje manže
 
 ### § 55
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Opätovné zaradenie príslušníka na vykonávanie štátnej služby
 >
 > § 55
@@ -533,7 +533,7 @@ Tretí, subsidiárny spôsob predstavuje zaradenie na voľné funkčné miesto i
 
 ### § 56
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Služobná cesta
 >
 > § 56
@@ -556,7 +556,7 @@ Rozhodovacia právomoc o vyslaní na služobnú cestu patrí služobnému úradu
 
 ### § 57
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > § 57
 >
 > (1) Príslušníka možno vyslať na služobnú cestu na získanie potrebných skúseností a praxe do iného miesta vykonávania štátnej služby alebo do iného služobného úradu na čas dlhší ako 90 dní v kalendárnom roku len s jeho súhlasom.
@@ -569,7 +569,7 @@ Odsek 2 zakotvuje hmotnoprávny nárok príslušníka vyslaného na akúkoľvek 
 
 ### § 58
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Náhrady výdavkov súvisiacich so vznikom služobného pomeru a s preložením
 >
 > § 58
@@ -590,7 +590,7 @@ Odsek 3 zavádza fakultatívny mechanizmus (dikcia „môže") pre situácie, ke
 
 ### § 58a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > § 58a
 >
 > (1) Príslušníkovi, ktorý je vyslaný na vykonávanie štátnej služby v zahraničí, okrem príslušníka, ktorý je vyslaný na vykonávanie štátnej služby v zahraničí na plnenie úloh v misii, patria náhrady súvisiace so zahraničnou služobnou cestou a s inými zmenami miesta vykonávania štátnej služby v zahraničí podľa osobitného predpisu. 17)
@@ -611,7 +611,7 @@ Odseky 3 a 4 spresňujú časové vymedzenie nároku na zahraničný príspevok 
 
 ### § 59
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Skončenie a zánik služobného pomeru
 >
 > § 59
@@ -632,7 +632,7 @@ Odsek 3 zjednocuje formálnu a kompetenčnú stránku vydávania dokumentov, kto
 
 ### § 60
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Skončenie služobného pomeru služobným úradom
 >
 > § 60
@@ -653,7 +653,7 @@ Odsek 2 naproti tomu zakotvuje fakultatívnu (diskrečnú) právomoc služobnéh
 
 ### § 61
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Skončenie služobného pomeru na žiadosť príslušníka
 >
 > § 61
@@ -670,7 +670,7 @@ Kľúčovou garanciou v prospech príslušníka je odsek 3, ktorý zakotvuje zá
 
 ### § 62
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Skončenie služobného pomeru v skúšobnej lehote
 >
 > § 62
@@ -683,7 +683,7 @@ Zákon však zakotvuje výnimku v prospech osobitnej kategórie chránených pr�
 
 ### § 63
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Skončenie služobného pomeru na základe zákona
 >
 > § 63
@@ -708,7 +708,7 @@ Druhú skupinu tvoria dôvody spojené so stratou základnej trestnoprávnej ale
 
 ### § 64
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Neplatné skončenie služobného pomeru
 >
 > § 64
@@ -721,7 +721,7 @@ Hospodárskym dôsledkom tejto fikcie je nárok príslušníka na doplatenie slu
 
 ### § 65
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Služobný posudok a potvrdenie o štátnej službe
 >
 > § 65
@@ -736,7 +736,7 @@ Obsahové vymedzenie posudku je zákonom výslovne obmedzené výlučne na skuto
 
 ### § 66
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > § 66
 >
 > (1) Služobný úrad vydá príslušníkovi v deň skončenia služobného pomeru písomné potvrdenie o štátnej službe, pričom vychádza z osobného spisu príslušníka.
@@ -755,7 +755,7 @@ Zákon v odseku 2 taxatívne, aj keď s uvedením „najmä" (teda demonštratí
 
 ### § 67
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Osobný spis príslušníka
 >
 > § 67
@@ -774,7 +774,7 @@ Z hľadiska ochrany práv príslušníka sú kľúčové odseky 2 a 3. Odsek 2 z
 
 ### § 68
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > TRETIA HLAVA
 >
 > SLUŽOBNÁ DISCIPLÍNA A DISCIPLINÁRNA PRÁVOMOC
@@ -791,7 +791,7 @@ Zaradenie tohto ustanovenia na začiatok tretej hlavy má systematický význam 
 
 ### § 69
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Základné práva a povinnosti príslušníka
 >
 > § 69

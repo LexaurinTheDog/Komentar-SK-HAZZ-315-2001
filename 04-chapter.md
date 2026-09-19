@@ -2,7 +2,7 @@
 
 ### § 105
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Platový stupeň a započítaná prax
 >
 > (1) Platový stupeň sa určí podľa započítanej praxe.
@@ -13,7 +13,7 @@ Ustanovenie otvára mzdovú časť zákona a zavádza druhý zo základných par
 
 ### § 106
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Čas odbornej praxe a ďalší čas
 >
 > Do času odbornej praxe príslušníka sa započítava čas a) vykonávania štátnej služby odo dňa nadobudnutia účinnosti tohto zákona s výnimkou času zaradenia mimo činnej štátnej služby okrem zaradenia mimo činnej štátnej služby z dôvodov vylučujúcich vykonávanie štátnej služby podľa § 54 ods. 3, počas materskej dovolenky, otcovskej dovolenky, rodičovskej dovolenky do troch rokov veku dieťaťa a starostlivosti o dieťa s dlhodobo nepriaznivým zdravotným stavom vyžadujúcim osobitnú starostlivosť do šiestich rokov dieťaťa, b) odbornej praxe získanej aj pred vymenovaním do štátnej služby, ak predchádzajúca pracovná činnosť mala rovnaký alebo obdobný charakter ako činnosť vykonávaná v príslušnej funkcii, ak ďalej nie je ustanovené inak.
@@ -22,7 +22,7 @@ Nadpis "Čas odbornej praxe a ďalší čas" uvedený nad § 106 je spoločnou r
 
 ### § 107
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Do ďalšieho času sa započítava čas a) praxe v inej než požadovanej činnosti získanej pred vymenovaním do štátnej služby v závislosti od miery jej využitia na úspešné vykonávanie štátnej služby priznanej služobným úradom najviac v rozsahu dvoch tretín, b) skutočného vykonávania základnej služby a náhradnej služby najviac v rozsahu ustanovenom osobitným predpisom platným v čase jej vykonávania, c) civilnej služby v rozsahu jej skutočného vykonania najviac v rozsahu 18 mesiacov, d) starostlivosti o dieťa, 1. zodpovedajúci dĺžke materskej dovolenky, otcovskej dovolenky alebo rodičovskej dovolenky určenej osobitnými predpismi v čase jej vykonávania, pričom na jedno dieťa možno započítať najviac tri roky, 2. s dlhodobo nepriaznivým zdravotným stavom vyžadujúcim osobitnú starostlivosť, ustanovený osobitným predpisom, ak sa rodič v tomto čase súčasne v dennom štúdiu nepripravoval na povolanie, najviac však šesť rokov zo súhrnu týchto časov, e) hodnotený ako čas zamestnania na účely dôchodkového zabezpečenia podľa osobitných predpisov,21) f) doktorandského štúdia22) v rozsahu zodpovedajúcom miere využitia zamerania odboru štúdia na úspešné vykonávanie požadovanej činnosti, g) vykonávania funkcií podľa § 54 a § 160 ods. 2, h) získaný na základe služobného hodnotenia, i) zaradenia príslušníka mimo činnej štátnej služby podľa § 52, ak sa preukáže, že nebol dôvod na zaradenie mimo činnej štátnej služby.
 >
 > (2) Rozsah a podmienky započítania času na základe výsledkov hodnotenia ustanoví vláda nariadením.
@@ -35,7 +35,7 @@ Písmená e) až i) zachytávajú ďalšie osobitné situácie - čas hodnotený
 
 ### § 108
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Určenie tarifného platu
 >
 > (1) Príslušníkovi v závislosti od platovej triedy podľa § 104 a platového stupňa podľa § 105 patrí tarifný plat podľa stupnice platových taríf, ktorá je ustanovená v prílohe č. 2.
@@ -46,7 +46,7 @@ Ustanovenie spája oba doteraz predstavené parametre - platovú triedu a platov
 
 ### § 109
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Príplatok za riadenie
 >
 > (1) Nadriadenému patrí príplatok za riadenie v rámci rozpätia percentuálneho podielu platovej tarify najvyššieho platového stupňa platovej triedy, v ktorej sa mu poskytuje tarifný plat. Rozpätie percentuálneho podielu pre nadriadených podľa stupňov riadenia je ustanovené v prílohe č. 3.
@@ -57,7 +57,7 @@ Príplatok za riadenie je nárokovou, ale nie pevne stanovenou zložkou platu pr
 
 ### § 110
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Príplatok za zastupovanie
 >
 > (1) Príslušníkovi, ktorý podľa § 49 ods. 4 a 5 zastupuje nadriadeného dlhšie ako tri týždne, patrí od začiatku zastupovania príplatok za zastupovanie v sume priznaného príplatku za riadenie zastupovaného nadriadeného.
@@ -72,7 +72,7 @@ Ustanovenie rieši mzdové dôsledky dočasného výkonu riadiacej funkcie iným
 
 ### § 111
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Osobný príplatok
 >
 > (1) Príslušníkovi na ocenenie kvality vykonávanej činnosti a osobných schopností možno priznať osobný príplatok pevnou sumou zaokrúhlenou na 50 eurocentov nahor až do sumy zodpovedajúcej stanovenému limitu.
@@ -89,7 +89,7 @@ Odseky 3 a 4 zavádzajú pomerne zložitý mechanizmus limitovania hornej hranic
 
 ### § 112
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Hodnostný príplatok
 >
 > (1) Príslušníkovi patrí hodnostný príplatok podľa dosiahnutej hodnosti: rotmajster 2,00 eura mesačne, nadrotmajster 8,50 eura mesačne, podpráporčík – podporučík 18,50 eura mesačne, práporčík – poručík 25,00 eura mesačne, nadpráporčík – nadporučík 32,00 eura mesačne, kapitán 38,50 eura mesačne, major 45,00 eura mesačne, podplukovník 51,50 eura mesačne, plukovník 58,50 eura mesačne, generál 65,50 eura mesačne.
@@ -100,7 +100,7 @@ Hodnostný príplatok je pevnou, tabuľkovo stanovenou mesačnou sumou naviazano
 
 ### § 116
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Plat za štátnu službu nadčas
 >
 > (1) Ak príslušník vykonáva štátnu službu nadčas, patrí mu za každú hodinu takejto služby príslušná časť služobného platu priznaného v čase štátnej služby nadčas zvýšená o 30 %, a ak ide o deň nepretržitého odpočinku v týždni, zvýšená o 60 %.
@@ -113,7 +113,7 @@ Ustanovenie kompenzuje výkon štátnej služby nad rámec určeného služobné
 
 ### § 117
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Príplatok za zmennosť
 >
 > Príslušníkovi, ktorý má služobný čas rozvrhnutý tak, že vykonáva štátnu službu striedavo vo viacerých služobných zmenách, patrí príplatok mesačne 20 % až 50 % z platovej tarify prvého platového stupňa prvej platovej triedy. Príplatok za zmennosť podľa prvej vety patrí aj príslušníkovi, ktorý má služobný čas rozvrhnutý nerovnomerne. Príplatok sa určuje pevnou sumou zaokrúhlenou na 50 eurocentov nahor.
@@ -122,7 +122,7 @@ Príplatok za zmennosť kompenzuje osobitnú záťaž spojenú s výkonom štát
 
 ### § 118
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Príplatok za štátnu službu v sťaženom a zdraviu škodlivom prostredí a na miestach s ohrozením života a zdravia
 >
 > (1) Príslušníkovi, ktorý sa bezprostredne zúčastňuje na zdolávaní požiarov, na záchranných prácach v horskom teréne, pri povodniach a ostatných nežiaducich udalostiach1a) a na miestach s ohrozením života a zdravia, patrí príplatok za každú hodinu tejto činnosti v sume, ktorou je 1 % z platovej tarify prvého platového stupňa prvej platovej triedy. Suma príplatku sa zaokrúhľuje na desať eurocentov smerom nahor.
@@ -145,7 +145,7 @@ Systematicky ide o príplatky, ktoré sa navzájom vylučujú alebo kumulujú po
 
 ### § 120
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Odmena
 >
 > (1) Príslušníkovi možno poskytovať odmenu a) za kvalitné plnenie služobných úloh alebo za vykonanie služobných úloh nad rozsah činností vyplývajúcich z príslušného služobného miesta, b) za splnenie mimoriadnej služobnej úlohy alebo osobitne významnej služobnej úlohy, alebo vopred určenej služobnej úlohy, prípadne jej ucelenej etapy (cieľová odmena), c) pri dosiahnutí 50 rokov veku najviac v sume jeho mesačného služobného platu.
@@ -156,7 +156,7 @@ Odmena je ďalšou nenárokovou, jednorazovou zložkou platu, ktorá dopĺňa sy
 
 ### § 122
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Náhrada za služobnú pohotovosť a náhrada za pohotovosť
 >
 > (1) Ak je príslušníkovi podľa § 92 ods. 1 určená služobná pohotovosť, patrí mu za každú hodinu tejto pohotovosti peňažná náhrada 50 % zo sumy, ktorou je príslušná časť jeho služobného platu, a 100 % z tejto sumy, ak ide o deň služobného pokoja.
@@ -173,7 +173,7 @@ Odsek 3 rieši vzťah medzi náhradou za pohotovosť a odmenou za skutočný vý
 
 ### § 123
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Platové pomery čakateľa
 >
 > (1) Čakateľovi patrí služobný plat ako príslušníkovi v stálej štátnej službe podľa § 103 okrem príplatku za riadenie a príplatku za zastupovanie.
@@ -186,7 +186,7 @@ Ustanovenie rieši mzdové postavenie čakateľa, teda príslušníka v skúšob
 
 ### § 124
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Platové pomery príslušníka v dočasnej štátnej službe
 >
 > Na platové pomery príslušníkov v dočasnej štátnej službe sa vzťahujú ustanovenia § 103 až 118, § 120 a 122.
@@ -195,7 +195,7 @@ Ustanovenie upravuje mzdové postavenie príslušníkov v dočasnej štátnej sl
 
 ### § 125
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Spoločné ustanovenia o platových náležitostiach a ďalších náležitostiach
 >
 > Krátenie služobného platu v dôsledku nesplnenia služobného úväzku
@@ -208,21 +208,21 @@ Nadpis "Spoločné ustanovenia o platových náležitostiach a ďalších nále�
 
 ### § 126
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Služobný úrad zabezpečuje ochranu údajov o plate a iných peňažných náležitostiach príslušníka.
 
 Toto stručné ustanovenie zakotvuje všeobecnú povinnosť služobného úradu chrániť údaje o plate a ostatných peňažných náležitostiach príslušníka pred neoprávneným prístupom či zverejnením. Ide o osobitné vyjadrenie zásady ochrany osobných údajov aplikované špecificky na oblasť odmeňovania, ktorá sa v služobnom pomere príslušníkov ozbrojeného zboru považuje za citlivú informáciu - jej neoprávnené sprístupnenie by mohlo mať negatívne dôsledky nielen na súkromie príslušníka, ale v niektorých prípadoch (napríklad pri príplatkoch za rizikové činnosti alebo pri hodnostnom príplatku) aj na bezpečnostné aspekty výkonu služby. Ustanovenie treba vykladať v spojení so všeobecnou úpravou ochrany osobných údajov a s pravidlami nazerania do spisu podľa § 145, ktoré tiež výslovne chránia niektoré citlivé kategórie informácií pred neoprávneným prístupom.
 
 ### § 127
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Prezidentovi zboru určuje služobný plat minister.
 
 Ustanovenie rieši osobitné, hierarchicky najvyššie postavenie prezidenta zboru v systéme odmeňovania - na rozdiel od ostatných príslušníkov, ktorým sa plat určuje mechanickým uplatnením tarifných a príplatkových pravidiel podľa predchádzajúcich ustanovení tejto hlavy, plat prezidenta zboru určuje priamo minister. Ide o logický dôsledok skutočnosti, že prezident zboru stojí na vrchole organizačnej štruktúry zboru a jeho nadriadeným v zmysle riadiacej hierarchie je práve minister, ktorý ho aj vymenúva do funkcie a je oprávnený rozhodovať v prvom stupni ako služobný orgán v definovaných prípadoch. Ustanovenie tak dopĺňa všeobecnú právomoc ministra ako najvyššieho služobného orgánu vo veciach služobného pomeru prezidenta zboru o jej mzdový rozmer.
 
 ### § 128
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ak je príslušník preradený na inú funkciu, patrí mu tarifný plat zodpovedajúci novej funkcii odo dňa účinnosti preradenia.
 >
 > (2) Príplatok za riadenie patrí nadriadenému odo dňa vymenovania za nadriadeného podľa § 49 v pomernej sume zodpovedajúcej odslúženému času v mesiaci.
@@ -239,7 +239,7 @@ Odsek 4 upravuje osobitný, výhodnejší časový režim pre postup do vyššie
 
 ### § 129
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ak osobitné predpisy, ktoré sa vzťahujú na služobné úrady alebo na príslušníkov, obsahujú ustanovenia a) o mzde, rozumie sa tým služobný plat podľa tohto zákona, b) o priemernom zárobku alebo priemernej mzde, rozumie sa tým služobný plat podľa § 103 ods. 2 tohto zákona priznaný príslušníkovi v čase, keď vznikol dôvod na jeho použitie.
 >
 > (2) Ak sa na účely výpočtu peňažných plnení postupuje podľa všeobecne záväzných právnych predpisov z priemerného čistého zárobku zamestnanca, rozumie sa tým čistý služobný plat. Čistý služobný plat sa zisťuje zo služobného platu odpočítaním súm poistného na zdravotné poistenie, poistného na nemocenské poistenie, poistného na starobné poistenie, poistného na invalidné poistenie a preddavku na daň z príjmov zo závislej činnosti podľa podmienok a sadzieb platných pre príslušníka v mesiaci, za ktorý sa tento plat zisťuje.
@@ -250,14 +250,14 @@ Odsek 2 rieši obdobnú preklenovaciu situáciu pre výpočty vychádzajúce z p
 
 ### § 130
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Príslušnou časťou služobného platu na účely tohto zákona pri 40-hodinovom týždennom služobnom čase je 1/175 služobného platu. Pri inom týždennom služobnom čase sa príslušná časť služobného platu úmerne upraví.
 
 Ustanovenie zavádza legálnu definíciu pojmu "príslušná časť služobného platu", ktorý sa ako referenčná hodinová sadzba opakovane používa v celej mzdovej úprave zákona - napríklad pri plate za štátnu službu nadčas podľa § 116, pri náhrade za služobnú pohotovosť podľa § 122 alebo pri krátení platu podľa § 125. Pri štandardnom 40-hodinovom týždennom služobnom čase sa táto hodinová sadzba stanovuje ako 1/175 mesačného služobného platu, čo zodpovedá priemernému počtu pracovných hodín v mesiaci pri tomto rozsahu služobného času (40 hodín týždenne pri približne 4,35 týždňa v mesiaci). Druhá veta zabezpečuje proporcionálnu úpravu tohto deliteľa pre prípady, keď má príslušník povolený iný, spravidla kratší týždenný služobný čas, aby aj v takom prípade hodinová sadzba správne odrážala skutočný rozsah jeho služobných povinností a nedochádzalo k neodôvodnenému znevýhodneniu alebo zvýhodneniu oproti príslušníkom so štandardným úväzkom.
 
 ### § 131
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) V rámci vyjednávania o podmienkach vykonávania štátnej služby podľa § 190 sa každoročne dohodne zvýšenie stupnice platových taríf v závislosti od predpokladaného vývoja priemernej mesačnej mzdy zamestnanca v podnikateľskej sfére a od zdrojových možností štátneho rozpočtu v príslušnom roku a termín účinnosti zvýšenej stupnice platových taríf. Zvýšené platové tarify sa zaokrúhľujú na 50 eurocentov nahor. Dohodnuté zvýšenie stupnice platových taríf a termín účinnosti jej zvýšenia sa zahrnú do návrhu zákona o štátnom rozpočte.
 >
 > (2) Ak sa kolektívna zmluva vyššieho stupňa neuzatvorí, zvýšenie stupnice platových taríf a termín účinnosti jej zvýšenia podľa odseku 1 navrhne vláda ako súčasť návrhu zákona o štátnom rozpočte.
@@ -270,7 +270,7 @@ Odsek 2 rieši subsidiárny postup pre prípad, že sa kolektívna zmluva vyšš
 
 ### § 134
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > ÔSMA HLAVA
 > NÁHRADA ŠKODY
 >
@@ -280,7 +280,7 @@ Týmto ustanovením sa otvára ôsma hlava zákona upravujúca zodpovednosť za 
 
 ### § 134a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Príslušník nezodpovedá za škodu, a) ktorá vyplýva z rizika riadneho vykonávania štátnej služby, b) ktorú spôsobil pri odvracaní škody hroziacej na majetku alebo nebezpečenstva priamo hroziaceho životu alebo zdraviu, ak tento stav sám úmyselne nevyvolal a ak si počínal spôsobom primeraným okolnostiam, c) ktorú spôsobil pri plnení rozkazu, nariadenia, príkazu alebo pokynu jeho nadriadeného v rozpore so všeobecne záväznými právnymi predpismi a nadriadený na splnení tohto rozkazu, nariadenia, príkazu alebo pokynu trval, hoci ho príslušník na tento rozpor písomne upozornil. Písomné upozornenie sa nevyžaduje, ak hrozí nebezpečenstvo z omeškania.
 >
 > (2) Ak škodu z nedbanlivosti spôsobil príslušník pri dopravnej nehode, možno v osobitne odôvodnených prípadoch od vymáhania náhrady škody celkom upustiť, najmä ak došlo k dopravnej nehode pri zásahu alebo bezprostredne po ňom alebo pri sťažených podmienkach a ak ide o prvé zavinenie príslušníka.
@@ -291,7 +291,7 @@ Odsek 2 dopĺňa osobitný, fakultatívny liberačný mechanizmus pre škody z n
 
 ### § 134aa
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Všeobecná zodpovednosť príslušníka
 >
 > (1) Príslušník zodpovedá služobnému úradu za škodu, ktorú mu spôsobil zavineným porušením svojich povinností pri vykonávaní štátnej služby alebo v priamej súvislosti s ním. Služobný úrad je povinný preukázať príslušníkovi zavinenie s výnimkou prípadov podľa § 134ad.
@@ -304,14 +304,14 @@ Odsek 2 systematicky vymenúva štyri kumulatívne predpoklady vzniku zodpovedno
 
 ### § 134ab
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Príslušník, ktorý pod vplyvom duševnej poruchy spôsobí škodu, zodpovedá za ňu, len ak je schopný ovládnuť svoje konanie, alebo posúdiť jeho následky.
 
 Ustanovenie rieši osobitnú otázku príčetnosti (spôsobilosti niesť zodpovednosť) príslušníka, ktorý škodu spôsobil pod vplyvom duševnej poruchy. Vychádza zo všeobecného princípu, že zavinenie ako predpoklad zodpovednosti podľa § 134aa ods. 2 písm. d) predpokladá schopnosť konajúceho ovládnuť svoje konanie alebo aspoň posúdiť jeho následky - ak táto spôsobilosť v dôsledku duševnej poruchy chýba, nemožno hovoriť o zavinenom konaní v právnom zmysle, a teda ani o zodpovednosti za takto spôsobenú škodu. Formulácia "alebo posúdiť jeho následky" naznačuje alternatívny, nie kumulatívny charakter podmienky - postačuje, ak príslušník mal zachovanú aspoň jednu z dvoch schopností (ovládať konanie alebo posúdiť následky), aby zodpovednosť vznikla. Ustanovenie má význam najmä pri posudzovaní škody spôsobenej v dôsledku náhlej psychickej krízy, ktorá môže byť vzhľadom na vysokú psychickú záťaž spojenú s výkonom záchranárskej činnosti relevantným faktorom pri posudzovaní konkrétnych prípadov.
 
 ### § 134ac
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zodpovednosť za nesplnenie povinnosti na odvrátenie škody
 >
 > Príslušník, ktorý vedome nezakročil proti hroziacej škode, nesplnil si ohlasovaciu povinnosť alebo úmyselne konal proti dobrým mravom, zodpovedá za škodu spôsobenú služobnému úradu v rozsahu primeranom okolnostiam prípadu. Náhrada škody nesmie presiahnuť sumu rovnajúcu sa trojnásobku služobného platu, ktorý patril príslušníkovi v čase porušenia služobnej povinnosti podľa prvej vety.
@@ -320,7 +320,7 @@ Toto ustanovenie zakotvuje osobitnú skutkovú podstatu zodpovednosti za tzv. om
 
 ### § 134ad
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Osobitná zodpovednosť
 >
 > (1) Ak služobný úrad písomne zverí príslušníkovi hotovosť, ceniny, tovar, zásoby materiálu alebo iné hodnoty, ktoré je príslušník povinný vyúčtovať alebo vrátiť, zodpovedá za vzniknutý schodok alebo za stratu zverených predmetov.
@@ -337,7 +337,7 @@ Odsek 3 upravuje procesnú povinnosť služobného úradu pri organizačných zm
 
 ### § 134ae
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Rozsah a spôsob náhrady škody
 >
 > (1) Príslušník, ktorý zodpovedá za škodu, je povinný nahradiť skutočnú škodu, a to v peniazoch, ak poškodenú vec na základe dohody neuvedie do pôvodného stavu.
@@ -354,7 +354,7 @@ Odsek 3 však z tohto limitu vyníma dve kategórie prípadov, pri ktorých sa s
 
 ### § 134af
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ak škoda bola spôsobená aj služobným úradom, je príslušník povinný nahradiť pomernú časť škody podľa miery svojho zavinenia.
 >
 > (2) Ak za škodu zodpovedá niekoľko príslušníkov, každý z nich je povinný uhradiť pomernú časť škody podľa miery svojho zavinenia; ak niektorý z nich spôsobil škodu úmyselne alebo podľa § 134ae ods. 3 písm. b), zodpovedá za celú úmyselne spôsobenú škodu.
@@ -363,14 +363,14 @@ Ustanovenie rieši dva typické prípady spoluzavinenia pri vzniku škody. Odsek
 
 ### § 134ag
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Pri určení škody na veci sa vychádza z ceny tejto veci v čase jej poškodenia alebo straty.
 
 Ustanovenie stanovuje jednotné oceňovacie kritérium pre určenie výšky škody vzniknutej na veci - rozhodujúcou je cena veci v čase jej poškodenia alebo straty, nie napríklad jej pôvodná obstarávacia cena, účtovná (zostatková) hodnota alebo cena v čase uplatnenia nároku na náhradu škody. Tento časový okamih zodpovedá momentu, keď došlo k samotnej škodovej udalosti, a odráža princíp, že náhrada škody má nahradiť skutočnú, aktuálnu majetkovú ujmu služobného úradu vzniknutú práve v tomto okamihu. V praxi to znamená, že pri určovaní ceny sa musí zohľadniť aj prípadné opotrebenie veci do momentu poškodenia alebo straty, prípadne jej trhová hodnota zodpovedajúca stavu tesne pred škodovou udalosťou.
 
 ### § 134ah
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ak škoda bola spôsobená z nedbanlivosti, náhradu škody možno určiť nižšou sumou, než je skutočná škoda alebo než je trojnásobok služobného platu príslušníka, ktorý mu patril v čase porušenia služobnej povinnosti, z ktorej škoda vznikla. Výška náhrady škody však musí byť najmenej jedna tretina skutočnej škody, a ak škoda presahuje trojnásobok služobného platu príslušníka, ktorý mu patril v čase porušenia služobnej povinnosti, z ktorej škoda vznikla, najmenej jeden služobný plat príslušníka, ktorý mu patril v čase porušenia služobnej povinnosti, z ktorej škoda vznikla. Ak ide o škodu spôsobenú podľa § 134ae ods. 3, náhradu škody nižšou sumou môže určiť len odvolací orgán, alebo ak ide o škodu spôsobenú trestným činom, aj súd.
 >
 > (2) Pri určovaní výšky náhrady škody sa prihliada najmä na doterajšie plnenie služobných povinností príslušníka, na spoločenský význam škody, na to, ako k nej došlo, a na osobné pomery príslušníka.
@@ -383,7 +383,7 @@ Odsek 2 stanovuje demonštratívny okruh kritérií rozhodujúcich pri úvahe o 
 
 ### § 134ai
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Služobný úrad je povinný vyžadovať od príslušníka náhradu škody, za ktorú príslušník zodpovedá. O náhrade škody spôsobenej služobnému úradu rozhoduje vedúci služobného úradu. Výšku požadovanej náhrady škody určuje vedúci služobného úradu.
 >
 > (2) Ak škoda bola spôsobená trestným činom, o povinnosti príslušníka uhradiť škodu rozhodne vedúci služobného úradu, len ak o nej nerozhodol súd.
@@ -396,7 +396,7 @@ Odsek 3 rieši osobitný konflikt záujmov, ktorý by vznikol, ak by škodu spô
 
 ### § 134aj
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Všeobecná zodpovednosť služobného úradu
 >
 > (1) Ak bola príslušníkovi pri vykonávaní štátnej služby alebo v priamej súvislosti s ním spôsobená škoda porušením právnej povinnosti, zodpovedá za ňu služobný úrad.
@@ -413,7 +413,7 @@ Odseky 3 a 4 zavádzajú osobitnú, zvýšenú náhradu za bolesť v prípade, �
 
 ### § 134ak
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zodpovednosť služobného úradu za vecnú škodu
 >
 > (1) Ak príslušník utrpel vecnú škodu pri vykonávaní služobných činností, zodpovedá za ňu služobný úrad.
@@ -426,14 +426,14 @@ Odsek 2 rozširuje tento nárok aj na situáciu, keď príslušník utrpel vecn�
 
 ### § 135
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ak príslušník uhradil aspoň 70 % určenej náhrady škody a ak preukáže v štátnej službe mimoriadne výsledky, môže vedúci služobného úradu upustiť od vymáhania zvyšnej sumy náhrady škody; to sa nevzťahuje na škody, ktoré príslušník spôsobil úmyselne alebo podľa § 134ae ods. 3.
 
 Ustanovenie zavádza ďalší, samostatný nástroj zmiernenia dôsledkov zodpovednosti za škodu popri moderačnom práve podľa § 134ah - fakultatívne upustenie od vymáhania zvyšnej časti už z veľkej väčšiny uhradenej náhrady škody. Na rozdiel od zníženia náhrady podľa § 134ah, ktoré sa uplatňuje už pri samotnom určovaní výšky náhrady, ide tu o následné odpustenie zvyšku dlhu po tom, čo príslušník preukázateľne uhradil aspoň 70 % pôvodne určenej sumy, a to za súčasnej podmienky, že v štátnej službe preukáže mimoriadne výsledky. Ide teda o motivačný nástroj odmeňujúci nasledujúci vynikajúci výkon príslušníka po tom, čo splnil podstatnú časť svojho záväzku, pričom rozhodnutie je ponechané na diskrečnú úvahu vedúceho služobného úradu ("môže"). Rovnako ako pri moderačnom práve, aj tu zákon vylučuje jeho uplatnenie pri úmyselne spôsobenej škode alebo pri škode podľa § 134ae ods. 3 (schodok na zverených hodnotách, škoda pod vplyvom alkoholu či návykových látok), čím sa dôsledne zachováva prísnosť postihu pri najzávažnejších formách zavinenia naprieč celou touto hlavou zákona.
 
 ### § 135a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zodpovednosť služobného úradu pri služobných úrazoch a chorobách z povolania
 >
 > (1) Ak pri výkone štátnej služby alebo v priamej súvislosti s ním došlo k poškodeniu zdravia príslušníka alebo k jeho smrti úrazom (ďalej len „služobný úraz"), zodpovedá za škodu tým vzniknutú služobný úrad. Služobným úrazom nie je úraz, ktorý sa príslušníkovi stal na ceste do služby a späť, okrem, ak bol mimoriadne povolaný na miesto výkonu štátnej služby alebo iné dohodnuté miesto nadriadeným.
@@ -450,7 +450,7 @@ Odseky 3 a 4 upravujú zodpovednosť za chorobu z povolania - rozhodujúcim krit
 
 ### § 135b
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Služobný úrad sa zbaví zodpovednosti celkom, ak preukáže, že a) škoda bola spôsobená tým, že príslušník svojím zavinením porušil právne predpisy, rozkazy alebo pokyny na zaistenie bezpečnosti a ochrany zdravia pri výkone štátnej služby a ochrany pred požiarmi, hoci bol s nimi riadne oboznámený a ich znalosť a dodržiavanie boli sústavne vyžadované a kontrolované, alebo b) škodu si spôsobil príslušník požitím alkoholu alebo inej návykovej látky a služobný úrad nemohol škode zabrániť a že tieto skutočnosti boli jedinou príčinou škody.
 >
 > (2) Služobný úrad sa čiastočne zbaví zodpovednosti, ak preukáže, že a) príslušník porušil svojím zavinením ustanovenia právnych predpisov, rozkazy alebo pokyny na zaistenie bezpečnosti a ochrany zdravia pri výkone štátnej služby a ochrany pred požiarmi, hoci bol s nimi riadne oboznámený a že toto porušenie bolo jednou z príčin škody, b) jednou z príčin bolo požitie alkoholu alebo inej návykovej látky postihnutým príslušníkom, c) príslušníkovi vznikla škoda preto, že si počínal v rozpore s obvyklým spôsobom správania tak, že je zrejmé, že hoci neporušil právne predpisy, rozkazy alebo pokyny na zaistenie bezpečnosti a ochrany zdravia pri výkone štátnej služby a ochrany pred požiarmi, konal ľahkomyseľne a musel si pri tom byť vedomý vzhľadom na svoju kvalifikáciu a skúsenosti, že si môže zaviniť úraz alebo chorobu z povolania.
@@ -465,14 +465,14 @@ Odsek 2 upravuje tri dôvody čiastočného zbavenia zodpovednosti, ktoré zodpo
 
 ### § 135c
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Služobný úrad sa nemôže zbaviť zodpovednosti, ak príslušník utrpel služobný úraz a) pri plnení úloh Hasičského a záchranného zboru podľa § 3 ods. 1 písm. c) a d) alebo pri plnení úloh Horskej záchrannej služby podľa osobitného predpisu,24a) b) pri odvracaní nebezpečenstva hroziaceho životu alebo zdraviu alebo škody hroziacej na majetku, ak príslušník tento stav sám úmyselne nevyvolal.
 
 Ustanovenie vytvára absolútnu výnimku z liberačných dôvodov podľa § 135b pre dve kategórie osobitne rizikových situácií - v týchto prípadoch sa služobný úrad nemôže zbaviť zodpovednosti vôbec, ani čiastočne, bez ohľadu na to, či by inak boli splnené podmienky podľa § 135b. Prvou kategóriou je služobný úraz utrpený pri plnení najzávažnejších (bezprostredne život a zdravie ohrozujúcich) úloh zboru podľa § 3 ods. 1 písm. c) a d) - teda pri záchranných prácach pri haváriách a živelných pohromách a pri zásahoch pri mimoriadnych udalostiach, prípadne pri plnení úloh Horskej záchrannej služby. Druhou kategóriou je úraz utrpený pri odvracaní bezprostredného nebezpečenstva hroziaceho životu, zdraviu alebo majetku, opäť podmienený tým, že príslušník tento stav sám úmyselne nevyvolal - ide o zrkadlové doplnenie k liberačnému dôvodu príslušníka podľa § 134a ods. 1 písm. b) a k nároku na náhradu vecnej škody podľa § 134ak ods. 2. Zmyslom tohto ustanovenia je zabezpečiť, že práve pri výkone najtypickejšej a najrizikovejšej hasičsko-záchranárskej činnosti nesie riziko úrazu vždy služobný úrad, a nie individuálny príslušník, čo je logickým vyjadrením princípu, podľa ktorého riziko takejto činnosti nesie štát, v ktorého záujme a v ktorého mene príslušník koná.
 
 ### § 135d
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Rozsah a spôsob náhrady škody
 >
 > Príslušníkovi, ktorý utrpel služobný úraz alebo u ktorého bola zistená choroba z povolania, je služobný úrad povinný v rozsahu, v ktorom za škodu zodpovedá, poskytnúť náhradu za vecnú škodu.
@@ -481,7 +481,7 @@ Ustanovenie doplňuje rozsah náhrady škody pri služobných úrazoch a chorob�
 
 ### § 135e
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Výkon štátnej služby a priama súvislosť s ním
 >
 > (1) Výkonom štátnej služby sa rozumie výkon oprávnení a povinností vyplývajúcich zo služobného pomeru, činnosť vykonávaná na rozkaz alebo na pokyn nadriadeného a činnosť, ktorá je predmetom služobnej cesty.
@@ -498,7 +498,7 @@ Odsek 3 vymedzuje širší, doplnkový pojem "priamej súvislosti" s výkonom š
 
 ### § 136
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Spoločné ustanovenia o zodpovednosti za škodu
 >
 > (1) Pri zodpovednosti služobného úradu za škodu rozhoduje o náhrade škody vedúci služobného úradu. Ak sa preukáže, že škodu zavinil aj poškodený príslušník, zodpovednosť služobného úradu sa pomerne obmedzí.
@@ -517,7 +517,7 @@ Odsek 3 rozširuje režim náhrady škody na zdraví vzniknutej z iných príči
 
 ### § 137
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > DEVIATA HLAVA
 > KONANIE VO VECIACH SLUŽOBNÉHO POMERU
 >
@@ -533,14 +533,14 @@ Vylúčenie priznávania zložiek služobného príjmu z pôsobnosti tohto konan
 
 ### § 138
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > V konaní v prvom stupni koná a rozhoduje služobný orgán, ktorým je a) vedúci služobného úradu, b) služobný posudkový lekár podľa § 17 ods. 3.
 
 Ustanovenie definuje pojem služobného orgánu, ktorý sa následne v celej deviatej hlave používa ako centrálny procesný pojem označujúci subjekt oprávnený konať a rozhodovať v konaní vo veciach služobného pomeru v prvom stupni. Zákon vymedzuje dve kategórie služobných orgánov - štandardným a najčastejším je vedúci služobného úradu, ktorý rozhoduje vo väčšine vecí týkajúcich sa služobného pomeru príslušníkov jemu podriadených. Druhou, špecializovanou kategóriou je služobný posudkový lekár podľa § 17 ods. 3, ktorý je príslušný rozhodovať vo veciach zdravotnej spôsobilosti príslušníka na výkon štátnej služby - ide o vecne obmedzenú, ale funkčne nezastupiteľnú právomoc vyžadujúcu odbornú lekársku kvalifikáciu, ktorú vedúci služobného úradu ako laik v tejto oblasti vykonávať nemôže.
 
 ### § 139
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Účastník konania
 >
 > Účastníkom konania je a) príslušník, b) bývalý príslušník, c) pozostalý po príslušníkovi, ak sa má konať o jeho práve, právom chránenom záujme alebo o jeho povinnosti.
@@ -549,7 +549,7 @@ Ustanovenie taxatívne vymedzuje okruh osôb, ktoré majú postavenie účastní
 
 ### § 139a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zastúpenie
 >
 > Účastník konania sa môže dať v konaní zastúpiť. Na zastupovanie sa vzťahuje osobitný predpis.25)
@@ -558,7 +558,7 @@ Ustanovenie priznáva účastníkovi konania vo veciach služobného pomeru vše
 
 ### § 140
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Začatie konania
 >
 > (1) Konanie sa začína na návrh účastníka konania alebo na podnet služobného orgánu.
@@ -571,7 +571,7 @@ Ustanovenie upravuje dva možné spôsoby iniciácie konania - návrhové (na po
 
 ### § 141
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Postup v konaní
 >
 > (1) Služobný orgán postupuje pred vydaním rozhodnutia tak, aby bol spoľahlivo zistený stav veci. Na tento účel je povinný obstarať si podklady potrebné na rozhodnutie.
@@ -598,7 +598,7 @@ Odsek 4 zakotvuje zásadu súčinnosti a práva na obhajobu, ktorej konkrétnym 
 
 ### § 142
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Podanie
 >
 > (1) Podanie možno urobiť písomne alebo ústne do zápisnice alebo elektronickými prostriedkami podpísané zaručeným elektronickým podpisom podľa osobitného zákona.25a) Podanie možno urobiť aj telegraficky alebo telefaxom; také podanie obsahujúce návrh vo veci treba doplniť písomne alebo ústne do zápisnice najneskôr do troch pracovných dní.
@@ -617,7 +617,7 @@ Odsek 3 stanovuje miestnu a vecnú príslušnosť ako podmienku riadneho podania
 
 ### § 143
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zápisnica
 >
 > (1) O ústnych podaniach a dôležitých úkonoch v konaní, najmä o ústnom pojednávaní, o vykonaných dôkazoch, o vyjadreniach účastníka konania a o hlasovaní sa vyhotovuje zápisnica.
@@ -632,7 +632,7 @@ Odsek 3 upravuje formálne náležitosti podpisovania zápisnice - po jej preč�
 
 ### § 144
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Postúpenie
 >
 > Ak účastník konania urobil podanie na služobný orgán, ktorý nie je vecne príslušný a miestne príslušný vo veci rozhodnúť, tento orgán je povinný podanie bez zbytočného odkladu postúpiť príslušnému služobnému orgánu a upovedomiť o tom účastníka konania.
@@ -641,7 +641,7 @@ Ustanovenie rieši procesné dôsledky situácie, keď účastník konania z nez
 
 ### § 144a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Vylúčenie príslušníka služobného orgánu alebo zamestnanca služobného orgánu
 >
 > Príslušník služobného orgánu alebo zamestnanec služobného orgánu, ktorý konanie uskutočňuje, je vylúčený z prejednávania a rozhodovania vo veci, ak a) so zreteľom na jeho pomer k veci, k účastníkovi konania alebo k jeho zástupcovi možno mať pochybnosť o jeho nepredpojatosti, b) v tej istej veci uskutočňoval konanie v prvom stupni.
@@ -650,21 +650,21 @@ Ustanovenie zavádza inštitút vylúčenia pre zaujatosť, ktorý má zabezpeč
 
 ### § 144b
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Vylúčenie z prejednávania a rozhodovania vo veci sa nevzťahuje na a) bezprostredne nadriadeného vykonávajúceho služobné hodnotenie príslušníka podľa § 40 až 44, b) vedúceho služobného úradu, c) predsedu lekárskej komisie, d) predsedu ústrednej lekárskej komisie, e) ministra, ak koná a rozhoduje ako odvolací orgán, f) prezidenta zboru, ak koná a rozhoduje ako odvolací orgán.
 
 Ustanovenie zavádza taxatívny okruh výnimiek z pravidla vylúčenia podľa § 144a písm. b), teda z pravidla, že osoba, ktorá v tej istej veci už raz rozhodovala v prvom stupni, sa nemôže podieľať na jej ďalšom prejednávaní. Výnimky sa týkajú funkcií, ktorých organizačné postavenie v hierarchii zboru objektívne vylučuje, aby sa uplatnila iná osoba na ich mieste, alebo kde je opakované zapojenie tej istej funkcie systémovo nevyhnutné - napríklad bezprostredne nadriadený vykonávajúci služobné hodnotenie príslušníka nie je vylúčený len preto, že sa jeho hodnotenie stalo súčasťou skoršieho rozhodovania, keďže ide o jeho riadnu, opakovanú riadiacu právomoc. Osobitne významné sú výnimky pre ministra a prezidenta zboru, pokiaľ konajú ako odvolací orgán - keďže ide o najvyššie orgány v hierarchii zboru (respektíve rezortu), voči ktorým už neexistuje ďalší nadriadený orgán, uplatnenie všeobecného pravidla vylúčenia by mohlo viesť k odopretiu spravodlivosti pre neexistenciu iného kompetentného subjektu; zákon preto ich účasť na rozhodovaní v odvolacom konaní výslovne pripúšťa aj v prípadoch, keď by inak dôvod vylúčenia formálne prichádzal do úvahy.
 
 ### § 144c
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Účastník konania oznámi služobnému orgánu skutočnosti nasvedčujúce vylúčenie príslušníka služobného orgánu alebo zamestnanca služobného orgánu, ktorý konanie uskutočňuje, len čo sa o nich dozvie. Účastník konania je povinný návrh na vylúčenie odôvodniť, inak naň služobný orgán neprihliadne.
 
 Ustanovenie zakotvuje procesnú iniciatívu účastníka konania pri uplatňovaní námietky zaujatosti - účastník má nielen právo, ale aj povinnosť bezodkladne (hneď, ako sa o príslušných skutočnostiach dozvie) oznámiť služobnému orgánu okolnosti nasvedčujúce vylúčeniu konajúcej osoby podľa § 144a. Táto povinnosť bezodkladného oznámenia má zabrániť účelovému alebo oneskorenému uplatňovaniu námietky zaujatosti až v neskoršej fáze konania, keď by už mohla slúžiť len ako obštrukčný prostriedok. Druhá veta stanovuje formálnu (materiálnu) požiadavku na obsah takéhoto návrhu - musí byť odôvodnený, teda musí konkrétne uviesť skutkové okolnosti, z ktorých vyplýva dôvod vylúčenia, pričom nedostatočne odôvodnený návrh služobný orgán nie je povinný vôbec vecne posudzovať ("naň neprihliadne"), čo chráni konanie pred bezdôvodnými alebo paušálnymi námietkami zaujatosti.
 
 ### § 144d
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Len čo sa príslušník služobného orgánu alebo zamestnanec služobného orgánu, ktorý konanie uskutočňuje, dozvie o skutočnostiach nasvedčujúcich jeho vylúčenie, oznámi to bez meškania vedúcemu služobného úradu, člen lekárskej komisie predsedovi lekárskej komisie a člen ústrednej lekárskej komisie predsedovi ústrednej lekárskej komisie.
 >
 > (2) Predpojatý príslušník služobného orgánu alebo zamestnanec služobného orgánu, ktorý konanie uskutočňuje, môže urobiť iba také úkony, ktoré nepripúšťajú odklad, a to iba za predpokladu, že takýto úkon nemôže urobiť iný nepredpojatý príslušník služobného orgánu alebo zamestnanec služobného orgánu, ktorý konanie uskutočňuje. Úkonom nepripúšťajúcim odklad nie je vydanie rozhodnutia vo veci samej.
@@ -675,7 +675,7 @@ Odsek 2 rieši prechodný, dočasný stav medzi vznikom pochybnosti o zaujatosti
 
 ### § 144e
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) O tom, či je príslušník služobného orgánu alebo zamestnanec služobného orgánu, ktorý konanie uskutočňuje, z konania vylúčený, rozhoduje vedúci služobného úradu, ak ide o člena lekárskej komisie predseda lekárskej komisie a ak ide o člena ústrednej lekárskej komisie predseda ústrednej lekárskej komisie.
 >
 > (2) Proti rozhodnutiu o vylúčení príslušníka služobného orgánu alebo zamestnanca služobného orgánu nemožno podať samostatné odvolanie.
@@ -688,7 +688,7 @@ Odsek 3 ukladá príslušnému rozhodujúcemu funkcionárovi povinnosť po vyslo
 
 ### § 145
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Nazeranie do spisu
 >
 > (1) Účastník konania a jeho zástupca majú právo nazerať do príslušného spisu, robiť si z neho výpis, odpis a vyhotoviť kópiu spisu s výnimkou zápisnice o hlasovaní alebo dostať informáciu zo spisu s výnimkou zápisnice o hlasovaní iným spôsobom.
@@ -705,7 +705,7 @@ Odsek 3 ukladá služobnému orgánu prierezovú ochrannú povinnosť zabrániť
 
 ### § 146
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Dokazovanie
 >
 > (1) Na dokazovanie možno použiť všetky prostriedky, ktorými možno spoľahlivo zistiť stav veci a ktoré sú v súlade so všeobecne záväznými právnymi predpismi. Dôkazom je všetko, čo môže prispieť k spoľahlivému zisteniu stavu veci, najmä vyjadrenie účastníka konania, výpoveď svedka, odborný posudok, znalecký posudok, listina a obhliadka.
@@ -724,7 +724,7 @@ Odsek 3 potvrdzuje, že vykonávanie dokazovania je výsostnou právomocou služ
 
 ### § 146a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Svedok
 >
 > (1) Každý je povinný vypovedať ako svedok; musí vypovedať pravdivo a nesmie nič zamlčať.
@@ -741,7 +741,7 @@ Odsek 3 zakotvuje relatívne (fakultatívne) právo odoprieť výpoveď, ktoré 
 
 ### § 146b
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Znalci
 >
 > Ak je pre odborné posúdenie skutočností dôležitých pre rozhodnutie potrebný znalecký posudok, služobný orgán ustanoví znalca.
@@ -750,7 +750,7 @@ Ustanovenie upravuje inštitút znaleckého dokazovania pre prípady, keď riadn
 
 ### § 146c
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Listiny
 >
 > (1) Služobný orgán môže uložiť účastníkovi konania alebo inej osobe, ktorá má listinu potrebnú na vykonanie dôkazov, aby ju predložil.
@@ -761,7 +761,7 @@ Ustanovenie upravuje listinu ako ďalší z výslovne menovaných dôkazných pr
 
 ### § 146d
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Obhliadka
 >
 > (1) Vlastník alebo užívateľ veci je povinný predložiť služobnému orgánu predmet obhliadky alebo strpieť obhliadku na mieste.
@@ -774,7 +774,7 @@ Ustanovenie upravuje obhliadku ako posledný z výslovne menovaných dôkazných
 
 ### § 146e
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Čestné vyhlásenie
 >
 > (1) Služobný orgán môže namiesto dôkazu pripustiť čestné vyhlásenie účastníka konania, ak osobitný zákon neustanovuje inak.

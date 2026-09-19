@@ -2,7 +2,7 @@
 
 ### § 70
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Majetkové priznanie
 >
 > (1) Príslušník počas trvania štátnej služby je povinný priznať svoje majetkové pomery a) do 30 dní odo dňa vzniku služobného pomeru, b) do 31. marca každého kalendárneho roka.
@@ -23,7 +23,7 @@ Oceňovací režim podľa odseku 3 je asymetrický: nehnuteľný majetok sa neoc
 
 ### § 71
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Konanie vo veciach majetkového priznania
 >
 > (1) Ak príslušník nepodá včas majetkové priznanie podľa § 70, vyzve ho vedúci služobného úradu na dodatočné splnenie tejto povinnosti najneskôr do 30 dní.
@@ -40,7 +40,7 @@ Kľúčovým je odsek 3, ktorý zavádza obrátené dôkazné bremeno typu, aký
 
 ### § 72
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Povinnosti nadriadeného
 >
 > Okrem plnenia povinností podľa § 69 je nadriadený ďalej povinný a) riadiť, organizovať, kontrolovať vykonávanie štátnej služby podriadených príslušníkov, b) zabezpečovať, aby podriadení príslušníci mali požadované vedomosti, zručnosti, schopnosti a fyzickú zdatnosť na vykonávanie štátnej služby, c) vytvárať priaznivé podmienky na riadne vykonávanie štátnej služby a podriadených príslušníkov viesť k služobnej disciplíne, d) slušne sa správať voči podriadeným príslušníkom, e) vystupovať pred disciplinárnou komisiou a v konaní pred súdom, f) vykonávať služobné hodnotenie jemu podriadených príslušníkov, g) oceňovať príkladné plnenie služobných povinností a navrhovať alebo vyvodzovať dôsledky z porušovania služobných povinností, h) vykonávať školiteľa čakateľovi, ktorému je bezprostredne nadriadený, i) zabezpečovať výkon kontroly dodržiavania liečebného režimu u príslušníka dočasne neschopného na vykonávanie štátnej služby pre chorobu alebo úraz.
@@ -51,7 +51,7 @@ Písmená c) a d) zdôrazňujú kultivačnú a etickú stránku vedenia - nadria
 
 ### § 73
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Vedúci služobného úradu môže podriadeným príslušníkom v rozsahu svojej právomoci udeľovať disciplinárne odmeny a ukladať disciplinárne opatrenia.
 >
 > (2) Vedúci služobného úradu je oprávnený udeliť disciplinárnu odmenu podľa § 74. Disciplinárne opatrenie podľa § 77 písm. a) až c) môže prezidentovi zboru, riaditeľovi krajského riaditeľstva zboru, riaditeľovi okresného riaditeľstva zboru a veliteľovi Hasičského a záchranného útvaru hlavného mesta Slovenskej republiky Bratislavy uložiť len minister.
@@ -64,7 +64,7 @@ Odsek 2 zavádza dôležitú výnimku z tejto všeobecnej právomoci pre prípad
 
 ### § 74
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Disciplinárne odmeny
 >
 > (1) Disciplinárne odmeny sú a) písomná pochvala, b) peňažný dar alebo vecný dar, c) mimoriadne povýšenie do vyššej hodnosti alebo mimoriadne vymenovanie do prvej dôstojníckej hodnosti.
@@ -87,7 +87,7 @@ Odsek 3 zavádza zákaz duplicitného ocenenia toho istého konania viacerými d
 
 ### § 75
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Služobné previnenia
 >
 > (1) Služobným previnením je zavinené porušenie povinnosti príslušníka. Príslušník zodpovedá za služobné previnenie.
@@ -100,7 +100,7 @@ Odsek 2 zavádza kvalifikovanú skutkovú podstatu závažného služobného pre
 
 ### § 76
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Disciplinárne opatrenia
 >
 > Za služobné previnenie možno uložiť príslušníkovi jedno z týchto disciplinárnych opatrení: a) písomné pokarhanie, b) zníženie služobného platu až o 15 % najviac na tri mesiace, c) zníženie hodnosti o jeden stupeň na obdobie jedného roka.
@@ -109,14 +109,14 @@ Ustanovenie vymenúva taxatívny katalóg disciplinárnych opatrení ukladateľn
 
 ### § 77
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Za závažné služobné previnenie možno uložiť príslušníkovi jedno z týchto disciplinárnych opatrení: a) zníženie služobného platu až o 30 % najviac na tri mesiace, b) odvolanie nadriadeného z funkcie, c) prepustenie zo stálej štátnej služby, d) prepustenie z dočasnej štátnej služby, e) prepustenie z prípravnej štátnej služby.
 
 Ustanovenie nadväzuje na predchádzajúci paragraf a vymenúva podstatne prísnejší katalóg disciplinárnych opatrení vyhradený pre závažné služobné previnenie podľa § 75 ods. 2. Oproti bežnému previneniu sa zdvojnásobuje horný limit majetkovej sankcie (až 30 % platu namiesto 15 %), pribúda funkčná sankcia odvolania nadriadeného z funkcie (uplatniteľná len voči príslušníkom vykonávajúcim riadiacu funkciu) a napokon najzávažnejšou sankciou je prepustenie zo služobného pomeru, ktoré zákon diferencuje podľa druhu štátnej služby, v ktorej sa príslušník práve nachádza - stála, dočasná alebo prípravná štátna služba (písmená c) až e), reflektujúce systematiku vzniku a druhov služobného pomeru upravenú v predchádzajúcich kapitolách zákona). Prepustenie ako disciplinárne opatrenie predstavuje najintenzívnejší zásah do právneho postavenia príslušníka, keďže vedie k zániku služobného pomeru bez ohľadu na vôľu príslušníka, a jeho uloženie je práve preto v zmysle § 73 ods. 2 vo vzťahu k vrcholovým funkcionárom zboru vyhradené výlučne ministrovi.
 
 ### § 77a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Výčitka
 >
 > Ak postačí na nápravu príslušníka a na obnovenie služobnej disciplíny za menej závažné konanie, ktoré má znaky služobného previnenia, výčitka, disciplinárne opatrenie sa neuloží.
@@ -125,7 +125,7 @@ Ustanovenie zavádza inštitút výčitky ako alternatívu k formálnemu discipl
 
 ### § 78
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ukladanie disciplinárnych opatrení
 >
 > Disciplinárne opatrenie zníženia hodnosti o jeden stupeň nemožno uložiť príslušníkovi v hodnosti rotmajstra, podporučíka alebo generála.
@@ -134,7 +134,7 @@ Ustanovenie otvára samostatný oddiel zákona upravujúci procesné a limitačn
 
 ### § 79
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Disciplinárne konanie sa uskutočňuje pred disciplinárnou komisiou.
 >
 > (2) Pred uložením disciplinárneho opatrenia musí byť vždy objektívne zistený skutočný stav. Príslušník musí mať možnosť pred uložením disciplinárneho opatrenia vyjadriť sa k veci, navrhovať dôkazy a obhajovať sa.
@@ -151,7 +151,7 @@ Odsek 3 stanovuje kritériá individualizácie trestu, ktoré disciplinárny org
 
 ### § 80
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Za služobné previnenie možno uložiť disciplinárne opatrenie najskôr v nasledujúci deň po spáchaní služobného previnenia a najneskôr do 60 dní odo dňa, keď sa o služobnom previnení dozvedel vedúci služobného úradu, najneskôr však do jedného roka odo dňa spáchania služobného previnenia. Za deň, keď sa vedúci služobného úradu dozvedel o služobnom previnení, ktoré bolo zistené na základe kontroly vykonanej podľa osobitných predpisov,18a) sa považuje deň skončenia kontroly podľa osobitných predpisov.18b)
 >
 > (2) Za deň uloženia disciplinárneho opatrenia sa považuje deň oznámenia rozhodnutia o uložení disciplinárneho opatrenia.
@@ -164,21 +164,21 @@ Odsek 2 definuje deň uloženia disciplinárneho opatrenia ako deň oznámenia r
 
 ### § 81
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ak sa príslušník dopustil služobného previnenia v zahraničí, lehota 60 dní na uloženie disciplinárneho opatrenia začína plynúť dňom nasledujúcim po dni návratu príslušníka zo zahraničia, ak sa vedúci služobného úradu o tomto konaní dozvedel v čase, keď sa príslušník zdržiaval v zahraničí; najneskôr však do jedného roka odo dňa návratu zo zahraničia. Ustanovenia § 80 ods. 1 posledná veta, ods. 2 a 3 platia rovnako.
 
 Ustanovenie upravuje osobitný začiatok plynutia subjektívnej aj objektívnej lehoty na uloženie disciplinárneho opatrenia pre prípad, že sa príslušník previnenia dopustil v zahraničí (typicky pri výkone zahraničnej služobnej cesty alebo zahraničnej misie zboru) a vedúci služobného úradu sa o ňom dozvedel ešte v čase, keď sa príslušník v zahraničí zdržiaval. Namiesto všeobecného pravidla plynutia lehoty od zistenia previnenia (§ 80 ods. 1) sa lehota v takom prípade odvíja až od návratu príslušníka zo zahraničia, keďže dovtedy by disciplinárne konanie proti prítomnému príslušníkovi bolo prakticky sťažené alebo znemožnené. Objektívna lehota jedného roka sa analogicky počíta tiež od návratu zo zahraničia, nie od spáchania previnenia. Posledná veta ustanovenia odkazuje na primerané použitie pravidiel o dni zistenia previnenia pri kontrole, o dni uloženia opatrenia a o novej lehote pri vrátení veci na nové prerokovanie podľa § 80 ods. 1 poslednej vety, ods. 2 a 3, čím sa zabezpečuje systémová konzistentnosť oboch úprav.
 
 ### § 82
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Disciplinárne opatrenie nemožno uložiť, ak bol príslušník za ten istý skutok už potrestaný súdom; ak bolo disciplinárne opatrenie uložené skôr, zruší sa s účinnosťou odo dňa jeho uloženia.
 
 Ustanovenie zakotvuje zásadu ne bis in idem vo vzťahu medzi disciplinárnou a trestnou (súdnou) zodpovednosťou za ten istý skutok. Ak bol príslušník za totožný skutok už právoplatne potrestaný súdom (typicky v trestnom konaní, prípadne v konaní o priestupku prejednávanom súdom), disciplinárne opatrenie sa už uložiť nemôže, keďže by šlo o duplicitný postih za jedno a to isté protiprávne konanie. Zákon rieši aj opačné poradie, keď disciplinárne opatrenie bolo uložené skôr než súdny trest - v takom prípade sa už uložené disciplinárne opatrenie zrušuje, a to so spätnou účinnosťou ku dňu jeho uloženia, čím sa fikciou odstraňujú aj všetky dôsledky, ktoré z uloženia opatrenia medzičasom vyplynuli (napríklad zápis v osobnom spise podľa § 84). Ustanovenie tak zabezpečuje, že prísnejšia forma verejnoprávneho postihu (súdny trest) má prednosť pred disciplinárnym opatrením a vylučuje kumuláciu oboch sankčných mechanizmov za identický skutok.
 
 ### § 83
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Písomné rozhodnutie o uložení disciplinárneho opatrenia vydáva príslušníkovi vedúci služobného úradu na návrh disciplinárnej komisie.
 >
 > (2) Právoplatné rozhodnutie o uložení disciplinárneho opatrenia sa zakladá do osobného spisu príslušníka.
@@ -195,7 +195,7 @@ Kľúčovým inštitútom je zahladenie disciplinárneho opatrenia podľa odseko
 
 ### § 84
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Evidencia disciplinárnych opatrení
 >
 > Právoplatné rozhodnutie o uložení disciplinárneho opatrenia, zahladenie disciplinárneho opatrenia a zrušenie disciplinárneho opatrenia sa zapisujú bezodkladne do prehľadu o disciplinárnych odmenách a disciplinárnych opatreniach.
@@ -204,7 +204,7 @@ Ustanovenie zakotvuje evidenčnú povinnosť služobného úradu viesť súhrnn�
 
 ### § 85
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Týždenný služobný čas
 >
 > (1) Služobný čas príslušníka je časový úsek, v ktorom príslušník vykonáva štátnu službu a je k dispozícii služobnému úradu.
@@ -227,7 +227,7 @@ Kľúčovú výnimku prináša odsek 4, ktorý umožňuje prekročenie tejto hra
 
 ### § 86
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Nerovnomerné rozvrhnutie služobného času
 >
 > (1) Služobný čas príslušníkov môže byť rozvrhnutý nerovnomerne. Nerovnomerne rozvrhnutý služobný čas príslušníkov je rozvrhnutý na obdobie šiestich mesiacov.
@@ -244,7 +244,7 @@ Odsek 3 definuje služobný deň účelovo, viazane na rozvrh služobného času
 
 ### § 87
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Prestávky v štátnej službe
 >
 > (1) Služobný úrad je povinný najneskôr po každých štyroch hodinách nepretržitej štátnej služby poskytnúť príslušníkovi vykonávajúcemu štátnu službu v rovnomerne rozvrhnutom služobnom čase prestávku na jedenie a oddych v trvaní 30 minút. Začiatok a koniec tejto prestávky určí služobný úrad.
@@ -261,7 +261,7 @@ Osobitne dôležitý je odsek 3, ktorý rieši špecifikum činnosti hasičskéh
 
 ### § 88
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Nepretržitý odpočinok medzi dvoma služobnými dňami
 >
 > (1) Služobný úrad je povinný rozvrhnúť služobný čas tak, aby príslušník mal medzi koncom služobného dňa a začiatkom nasledujúceho služobného dňa nepretržitý odpočinok aspoň 12 hodín a raz za týždeň nepretržitý odpočinok v trvaní aspoň 32 hodín.
@@ -274,7 +274,7 @@ Odsek 2 rieši osobitnú situáciu príslušníka vracajúceho sa zo služobnej 
 
 ### § 89
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Dĺžka nepretržitého odpočinku v týždni
 >
 > (1) Služobný úrad je povinný rozvrhnúť služobný čas tak, aby všetci príslušníci mali raz týždenne dva po sebe nasledujúce dni nepretržitého odpočinku, ktoré musia pripadať na piatok a sobotu alebo sobotu a nedeľu, alebo na nedeľu a pondelok.
@@ -289,7 +289,7 @@ Táto odstupňovaná flexibilita zodpovedá špecifikám nepretržitej prevádzk
 
 ### § 90
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Dni služobného pokoja
 >
 > (1) Ak to vyžaduje dôležitý záujem štátnej služby, je príslušník povinný vykonávať štátnu službu nad určený služobný čas, v deň nepretržitého odpočinku v týždni alebo vo sviatok.
@@ -302,7 +302,7 @@ Odsek 2 rieši opačnú situáciu - ak príslušník v deň sviatku, ktorý inak
 
 ### § 91
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Štátna služba nadčas
 >
 > (1) Štátnou službou nadčas je štátna služba vykonávaná nad rámec určeného služobného času.
@@ -317,7 +317,7 @@ Aj pri nariaďovaní nadčasovej služby zákon chráni minimálny odpočinok pr
 
 ### § 92
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Služobná pohotovosť v štátnej službe príslušníkov
 >
 > (1) Služobný úrad určuje príslušníkovi služobnú pohotovosť v štátnej službe v mieste vykonávania štátnej služby, ktorá bezprostredne nadväzuje na vykonávanie štátnej služby podľa § 86 ods. 2 v rámci rozvrhnutia služobného času.
@@ -336,7 +336,7 @@ Zákon stanovuje aj limity a záruky pri výkone pohotovosti - absolútny zákaz
 
 ### § 93
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Dovolenka
 >
 > (1) Základná výmera dovolenky príslušníka je najmenej štyri týždne v kalendárnom roku. Dovolenka vo výmere najmenej piatich týždňov patrí príslušníkovi, ktorý do konca kalendárneho roka dovŕši 33 rokov veku alebo sa trvale stará o dieťa. Základnú výmeru dovolenky možno predĺžiť v kolektívnej zmluve vyššieho stupňa.
@@ -353,14 +353,14 @@ Odsek 2 priznáva príslušníkom s nerovnomerne rozvrhnutým služobným časom
 
 ### § 94
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Príslušníkovi patrí za čas dovolenky služobný plat.
 
 Ustanovenie zakotvuje základný princíp platenosti dovolenky - za čas jej čerpania patrí príslušníkovi služobný plat v rovnakom rozsahu, ako keby v danom čase vykonával štátnu službu. Ide o krátke, no systémovo nevyhnutné ustanovenie, ktoré zaručuje, že čerpanie dovolenky nemá pre príslušníka žiadny negatívny majetkový dosah, a súčasne tvorí protipól k výslovnému vylúčeniu peňažnej náhrady za nevyčerpanú dodatkovú dovolenku podľa § 93 ods. 3 - kým čerpaná dovolenka je vždy platená, jej nevyčerpanie sa v prípade dodatkovej dovolenky nekompenzuje inak než jej skutočným vyčerpaním.
 
 ### § 95
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Služobné voľno
 >
 > (1) Ak príslušník nemôže pre prekážky z dôvodu všeobecného záujmu alebo pre dôležité osobné prekážky vykonávať štátnu službu, má nárok na udelenie služobného voľna. Služobné voľno sa poskytuje v dňoch, ktoré sú inak obvyklými služobnými dňami príslušníka.
@@ -373,7 +373,7 @@ Odsek 2 kladie na príslušníka dôkazné bremeno preukázať existenciu aj trv
 
 ### § 96
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Platené služobné voľno
 >
 > (1) Príslušníkovi patrí platené služobné voľno na prípravu a úspešné vykonanie skúšky na získanie osobitnej odbornej spôsobilosti v rozsahu piatich služobných dní.
@@ -388,7 +388,7 @@ Druhou, podstatne rozsiahlejšie upravenou skutkovou podstatou je voľno na oše
 
 ### § 96a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Neplatené služobné voľno
 >
 > Neplatené služobné voľno sa príslušníkovi poskytne z dôvodu poskytovania osobnej starostlivosti dieťaťu, manželovi, manželke alebo rodičovi, vyžadujúcim rozsiahlu opateru alebo podporu z vážneho zdravotného dôvodu alebo s vekom súvisiaceho dôvodu na nevyhnutne potrebný čas, najviac na päť dní v kalendárnom roku.
@@ -397,7 +397,7 @@ Ustanovenie dopĺňa systém služobného voľna o inštitút neplateného voľn
 
 ### § 97
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ako vykonávanie štátnej služby sa posudzuje čas a) čerpania dovolenky, b) plateného služobného voľna, c) zdokonaľovacej služby podľa osobitného predpisu,20) d) účasti na rekondičnom pobyte, e) prehlbovania kvalifikácie, f) zvyšovania kvalifikácie, g) prestávok na dojčenie, h) náhradného voľna za štátnu službu nadčas a náhradného voľna za štátnu službu vo sviatok, i) keď príslušník nevykonáva štátnu službu, pretože je sviatok pripadajúci na jeho inak obvyklý služobný deň, j) neprítomnosti príslušníka v štátnej službe z dôvodu 1. dočasnej neschopnosti na vykonávanie štátnej služby z dôvodu choroby alebo úrazu, 2. karantény, 3. materskej dovolenky, otcovskej dovolenky a rodičovskej dovolenky do troch rokov veku dieťaťa, starostlivosti o dieťa s dlhodobo nepriaznivým zdravotným stavom vyžadujúcim osobitnú starostlivosť do šiestich rokov dieťaťa, 4. zaradenia príslušníka mimo činnej štátnej služby podľa § 52, ak sa preukáže, že nebol dôvod na zaradenie mimo činnej štátnej služby, k) vykonávania funkcie národného experta Slovenskej republiky v inštitúciách Európskej únie, l) vykonávania uvoľneného funkcionára príslušného odborového orgánu podľa § 160 ods. 2.
 >
 > (2) Na účely dovolenky sa neposudzuje ako vykonávanie štátnej služby čas rodičovskej dovolenky a čas dočasnej neschopnosti na vykonávanie štátnej služby pre chorobu alebo úraz okrem dočasnej neschopnosti na vykonávanie štátnej služby vzniknutej v dôsledku služobného úrazu alebo choroby z povolania, za ktoré zodpovedá služobný úrad.
@@ -410,7 +410,7 @@ Odseky 2 a 3 však toto pravidlo dôležitým spôsobom korigujú pre dva špeci
 
 ### § 98
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Služobný úrad zabezpečuje pravidelné prehlbovanie kvalifikácie príslušníkov.
 >
 > (2) Prehlbovaním kvalifikácie je systematické odborné vzdelávanie a odborná príprava príslušníkov s cieľom priebežného udržiavania, zdokonaľovania a dopĺňania požadovaných vedomostí, zručností, schopností a návykov potrebných na vykonávanie štátnej služby v zbore. Druhy a formy prehlbovania kvalifikácie určí ministerstvo.
@@ -437,21 +437,21 @@ Zvyšovanie kvalifikácie má naopak povahu získania vyššieho stupňa vzdelan
 
 ### § 99
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Služobný úrad utvára príslušníkom podmienky na riadne, bezpečné a hospodárne vykonávanie štátnej služby; zabezpečuje najmä a) všeobecne záväzné právne predpisy, služobné predpisy, technické normy a informácie potrebné na riadne vykonávanie štátnej služby, b) zriaďovanie, udržiavanie a zlepšovanie zariadení nevyhnutných na riadne vykonávanie štátnej služby, c) vytváranie podmienok na stravovanie pri vykonávaní štátnej služby, d) poskytovanie rovnošaty príslušníkovi.
 
 Ustanovenie zakotvuje všeobecnú, rámcovú povinnosť služobného úradu vytvárať príslušníkom materiálne, informačné a organizačné podmienky na riadny, bezpečný a hospodárny výkon štátnej služby, ktorú následne demonštratívne (nie taxatívne, ako naznačuje slovo „najmä") konkretizuje štyrmi príkladmi. Ide o sprístupnenie potrebných právnych predpisov, služobných predpisov, technických noriem a informácií (písmeno a), zriaďovanie a udržiavanie nevyhnutných zariadení (písmeno b), vytváranie podmienok na stravovanie, ktoré je následne podrobnejšie rozvedené v § 100 a § 101, a poskytovanie rovnošaty, ktorej podrobnú úpravu obsahuje už § 32 a § 33 v predchádzajúcej kapitole zákona. Ustanovenie tak funguje ako všeobecná, programová klauzula otvárajúca blok ustanovení o materiálnom zabezpečení výkonu služby, ktorej konkrétne prejavy sa rozvíjajú v bezprostredne nasledujúcich paragrafoch.
 
 ### § 100
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Služobný úrad je povinný zabezpečiť príslušníkovi v priebehu denného služobného času stravovanie podávaním jedného hlavného teplého jedla, ak ide o príslušníkov s rovnomerne rozvrhnutým služobným časom, a dvoch teplých jedál, ak ide o príslušníkov s nerovnomerne rozvrhnutým služobným časom, na ktoré služobný úrad prispieva 65 % ceny jedla, najviac však 65 % stravného poskytovaného pri pracovnej ceste v trvaní 5 až 12 hodín podľa osobitného predpisu17) na každé jedlo.
 
 Ustanovenie konkretizuje povinnosť zabezpečenia stravovania podľa § 99 písm. c) a diferencuje jej rozsah podľa typu rozvrhnutia služobného času - príslušníci s rovnomerne rozvrhnutým časom majú nárok na jedno hlavné teplé jedlo denne, zatiaľ čo príslušníci s nerovnomerne rozvrhnutým, spravidla dvadsaťštyrihodinovým režimom podľa § 86 majú nárok na dve teplé jedlá, čo zodpovedá dlhšiemu trvaniu ich služobnej zmeny presahujúcej bežný pracovný deň. Finančná participácia služobného úradu je stanovená na 65 % ceny jedla, pričom táto suma je zároveň zastropovaná odkazom na 65 % zo stravného poskytovaného pri pracovnej ceste v trvaní 5 až 12 hodín podľa osobitného predpisu o cestovných náhradách - týmto prepojením na externe stanovenú, pravidelne valorizovanú sumu stravného sa zabezpečuje, že príspevok na stravovanie príslušníkov automaticky reaguje na infláciu bez nutnosti samostatnej novelizácie tohto ustanovenia.
 
 ### § 101
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Služobný úrad je povinný zabezpečiť príslušníkom, ktorí vykonávajú službu v sťažených podmienkach pri zásahu alebo v súvislosti s ním alebo pri zisťovaní príčin vzniku požiarov, v potrebnom rozsahu bezplatné stravovanie, ochranné nápoje a odpočinok.
 >
 > (2) Podrobnosti o poskytovaní bezplatného stravovania, ochranných nápojov a odpočinku ustanoví ministerstvo v služobnom predpise.
@@ -460,7 +460,7 @@ Ustanovenie zavádza kvalifikovaný, zvýhodnený režim stravovania a odpočink
 
 ### § 102
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Osobitné podmienky na vykonávanie štátnej služby príslušníčok
 >
 > (1) Príslušníčka nesmie vykonávať štátnu službu, ktorá škodí jej zdraviu.
@@ -475,7 +475,7 @@ Odsek 3 dopĺňa túto individualizovanú ochranu o plošný, generálny zoznam 
 
 ### § 102a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zdravotná starostlivosť
 >
 > Príslušníkovi sa poskytuje a) zdravotná starostlivosť podľa osobitných predpisov,20a) b) špecifická zdravotná starostlivosť.
@@ -484,7 +484,7 @@ Ustanovenie zavádza dvojzložkovú štruktúru zdravotnej starostlivosti poskyt
 
 ### § 102aa
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Tehotná príslušníčka a príslušníčka starajúca sa o dieťa mladšie ako jeden rok nesmie vykonávať štátnu službu v noci, štátnu službu nad základný čas služby v týždni a služobnú pohotovosť. Príslušníčke, ktorá sa stará o dieťa, ktoré dovŕšilo jeden rok a nedovŕšilo tri roky, môže byť nariadené vykonávanie štátnej služby v noci a vykonávanie štátnej služby nad základný čas služby v týždni len s jej písomným súhlasom. Príslušníčke, ktorá sa stará o dieťa, ktoré dovŕšilo jeden rok a nedovŕšilo 15 rokov, môže byť nariadená služobná pohotovosť len s jej písomným súhlasom.
 >
 > (2) Tehotná príslušníčka a príslušníčka starajúca sa o dieťa mladšie ako jeden rok sa môže vysielať na služobné cesty mimo miesta vykonávania štátnej služby alebo jej pobytu s jej predchádzajúcim písomným súhlasom.
@@ -495,7 +495,7 @@ Odsek 2 rozširuje obdobnú, súhlasom podmienenú ochranu aj na vysielanie na s
 
 ### § 102ab
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Tehotnú príslušníčku a príslušníčku starajúcu sa o dieťa staršie ako jeden rok až do dosiahnutia veku dieťaťa osem rokov možno vysielať na služobné cesty mimo miesta vykonávania štátnej služby alebo jej pobytu, preložiť alebo preveliť do iného miesta vykonávania štátnej služby alebo k inému služobnému úradu len s jej písomným súhlasom.
 >
 > (2) Ustanovenie odseku 1 platí aj pre osamelú príslušníčku starajúcu sa o dieťa mladšie ako 15 rokov.
@@ -504,7 +504,7 @@ Ustanovenie rozširuje ochranu pred nútenými služobnými cestami z predchádz
 
 ### § 102ac
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Vedúci služobného úradu je povinný pri vymenovaní do funkcie prihliadať aj na povinnosti príslušníčky a príslušníka trvale sa starajúcich aspoň o jedno dieťa mladšie ako 15 rokov.
 >
 > (2) Vedúci služobného úradu určí príslušníčke a príslušníkovi trvale sa starajúcim aspoň o jedno dieťa mladšie ako 15 rokov alebo tehotnej príslušníčke na ich žiadosť kratší služobný čas v týždni alebo ho inak upraví, ak tomu nebráni dôležitý záujem štátnej služby. Zamietnutie žiadosti vedúci služobného úradu písomne odôvodní.
@@ -517,7 +517,7 @@ Odseky 2 a 3 zakotvujú konkrétny, žiadosťou podmienený nárok na kratší s
 
 ### § 102ad
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Materská dovolenka, otcovská dovolenka a rodičovská dovolenka
 >
 > (1) V súvislosti s pôrodom a starostlivosťou o narodené dieťa patrí príslušníčke materská dovolenka po dobu 34 týždňov; osamelej príslušníčke patrí materská dovolenka po dobu 37 týždňov a príslušníčke, ktorá porodila zároveň dve alebo viac detí, patrí materská dovolenka po dobu 43 týždňov. V súvislosti so starostlivosťou o narodené dieťa patrí príslušníkovi odo dňa narodenia dieťaťa otcovská dovolenka v trvaní 28 týždňov; osamelému príslušníkovi patrí otcovská dovolenka po dobu 31 týždňov a príslušníkovi v súvislosti so starostlivosťou zároveň o narodené dve alebo viac detí patrí otcovská dovolenka po dobu 37 týždňov.
@@ -536,7 +536,7 @@ Odsek 2 upravuje rodičovskú dovolenku ako doplnkový, na žiadosť poskytovan�
 
 ### § 102ae
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Nárok na materskú dovolenku, otcovskú dovolenku a rodičovskú dovolenku má aj príslušníčka alebo príslušník, ktorý prevzal na základe právoplatného rozhodnutia príslušného orgánu dieťa do starostlivosti nahrádzajúcej starostlivosť rodičov, ktoré mu bolo zverené rozhodnutím príslušných orgánov na neskoršie osvojenie alebo do pestúnskej starostlivosti, alebo dieťa, ktorého matka zomrela.
 >
 > (2) Materská dovolenka alebo otcovská dovolenka sa poskytuje príslušníčke alebo príslušníkovi odo dňa prevzatia dieťaťa v trvaní 28 týždňov; osamelej príslušníčke alebo osamelému príslušníkovi v trvaní 31 týždňov a príslušníčke alebo príslušníkovi, ktorý prevzal dve alebo viac detí, 37 týždňov, najdlhšie do dňa, v ktorom dieťa dovŕši tri roky veku. Rodičovská dovolenka sa poskytuje odo dňa skončenia materskej dovolenky alebo otcovskej dovolenky až do dňa, kým dieťa dosiahne tri roky veku, alebo kým dieťa s dlhodobo nepriaznivým zdravotným stavom vyžadujúcim osobitnú starostlivosť dosiahne šesť rokov veku.
@@ -547,7 +547,7 @@ Odsek 2 stanovuje dĺžku takto poskytovanej dovolenky odlišne od štandardnej 
 
 ### § 102af
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ak dieťa bolo zo zdravotných dôvodov umiestnené v zariadení zdravotníckej starostlivosti a príslušníčka alebo príslušník zatiaľ nastúpi výkon štátnej služby, preruší sa týmto nástupom materská dovolenka, otcovská dovolenka alebo rodičovská dovolenka; u príslušníčky sa tak môže stať najskôr po uplynutí šiestich týždňov odo dňa pôrodu. Jej nevyčerpaná časť sa príslušníčke alebo príslušníkovi poskytne odo dňa, keď prevzal dieťa zo zariadenia opäť do svojej starostlivosti a prestal z tohto dôvodu vykonávať štátnu službu, nie však dlhšie ako do troch rokov veku dieťaťa.
 >
 > (2) Príslušníčke alebo príslušníkovi, ktorý sa prestal starať o narodené dieťa a ktorého dieťa bolo z tohto dôvodu umiestnené do starostlivosti nahrádzajúcej starostlivosť rodičov, ako aj príslušníčke alebo príslušníkovi, ktorého dieťa je v dočasnej starostlivosti detského domova alebo obdobného ústavu z iných ako zdravotných dôvodov, nepatrí materská dovolenka, otcovská dovolenka alebo rodičovská dovolenka za obdobie, počas ktorého sa o dieťa nestará.
@@ -562,7 +562,7 @@ Odseky 3 a 4 upravujú tragické, no právne nevyhnutne riešené situácie úmr
 
 ### § 102ag
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ak príslušníčka alebo príslušník požiada nadriadeného o poskytnutie dovolenky tak, aby nadväzovala bezprostredne na skončenie materskej dovolenky, otcovskej dovolenky alebo rodičovskej dovolenky, je nadriadený povinný žiadosti vyhovieť. Ak príslušníčka alebo príslušník nemôže vyčerpať dovolenku pre čerpanie materskej dovolenky, otcovskej dovolenky alebo rodičovskej dovolenky ani do konca budúceho kalendárneho roka, poskytne nadriadený nevyčerpanú dovolenku po skončení materskej dovolenky, otcovskej dovolenky alebo rodičovskej dovolenky.
 
 Ustanovenie rieši vzťah medzi štandardnou dovolenkou podľa § 93 a rodičovskými formami neprítomnosti v službe podľa § 102ad až § 102af. Prvá veta zakotvuje bezpodmienečný nárok príslušníčky alebo príslušníka na priame časové nadviazanie čerpanej, ešte nevyčerpanej dovolenky na koniec materskej, otcovskej alebo rodičovskej dovolenky, ak o to požiadajú - na rozdiel od štandardného určovania čerpania dovolenky, kde spravidla prevažuje organizačná potreba služobného úradu, tu zákon priznáva prednosť vôli príslušníka, ktorého žiadosti je nadriadený povinný vyhovieť bez možnosti odopretia.
@@ -571,7 +571,7 @@ Druhá veta rieši situáciu, keď nevyčerpanú dovolenku nemožno takto priamo
 
 ### § 102ah
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Prestávky na dojčenie
 >
 > (1) Príslušníčke, ktorá dojčí svoje dieťa, je nadriadený povinný poskytnúť okrem prestávok na jedenie a oddych osobitné prestávky na dojčenie.
@@ -588,14 +588,14 @@ Odsek 4 zaraďuje tieto prestávky medzi platený čas výkonu štátnej služby
 
 ### § 102ai
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ustanovenia § 102aa až 102ac sa vzťahujú aj na osamelých príslušníkov trvale sa starajúcich aspoň o jedno dieťa.
 
 Ustanovenie rozširuje pôsobnosť ochranných opatrení podľa § 102aa (zákaz, respektíve súhlasom podmienené nariaďovanie nočnej, nadčasovej a pohotovostnej služby a služobných ciest), § 102ab (súhlas so služobnou cestou, preložením alebo prevelením) a § 102ac (prihliadanie na rodičovské povinnosti pri vymenovaní do funkcie a nárok na kratší služobný čas) - ktoré sú svojou formuláciou v predchádzajúcich paragrafoch koncipované predovšetkým vo vzťahu k príslušníčkam - aj na osamelých príslušníkov (mužov) trvale sa starajúcich aspoň o jedno dieťa. Ide o legislatívno-technický zjednocujúci mechanizmus, ktorý zabezpečuje rodovo neutrálne uplatnenie ochranných opatrení tam, kde starostlivosť o dieťa fakticky vykonáva osamelý otec, a predchádza tak prípadnej diskriminácii na základe pohlavia pri poskytovaní tejto ochrany.
 
 ### § 102aj
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Za tehotnú príslušníčku sa na účely tohto zákona považuje príslušníčka, ktorá vedúcemu služobného úradu predložila o tehotenstve lekárske potvrdenie.
 >
 > (2) Za dojčiacu príslušníčku sa na účely tohto zákona považuje príslušníčka, ktorá vedúceho služobného úradu písomne informovala o tejto skutočnosti.
@@ -608,7 +608,7 @@ Odsek 3 definuje pojem osamelosti široko a otvorene - zahŕňa nielen formálne
 
 ### § 102b
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Špecifická zdravotná starostlivosť
 >
 > (1) Špecifickou zdravotnou starostlivosťou sa na účely tohto zákona rozumie a) preventívna lekárska prehliadka, ktorá sa vykonáva mimo preventívnej prehliadky vykonávanej podľa osobitného predpisu,20b) b) zdravotná starostlivosť poskytovaná na žiadosť ministerstva alebo služobného úradu pri výcviku príslušníka, zabezpečovaní osôb a objektov a pri určených krízových situáciách, c) lekárska preventívna prehliadka vo vzťahu k vykonávaniu štátnej služby.20c)
@@ -627,14 +627,14 @@ Odsek 3 zavádza pružný mechanizmus uznania náhradného vyšetrenia vykonané
 
 ### § 102c
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Náklady špecifickej zdravotnej starostlivosti hradí služobný úrad s výnimkou vyšetrení určených orgánom štátnej správy v oblasti verejného zdravotníctva podľa osobitného predpisu.20c)
 
 Ustanovenie upravuje financovanie špecifickej zdravotnej starostlivosti podľa § 102b, ktorej náklady zásadne znáša služobný úrad, čo je logickým dôsledkom skutočnosti, že táto starostlivosť slúži predovšetkým záujmu služobného úradu na zabezpečení zdravotnej spôsobilosti príslušníkov, nie primárne osobnému záujmu príslušníka. Výnimku predstavujú vyšetrenia nariadené orgánom štátnej správy v oblasti verejného zdravotníctva podľa osobitných predpisov (typicky v súvislosti s epidemiologickými opatreniami alebo ochranou verejného zdravia), ktorých náklady sa riadia osobitným, mimo tohto zákona stojacim režimom financovania verejného zdravotníctva.
 
 ### § 102d
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Lekárska posudková činnosť
 >
 > (1) Lekárska posudková činnosť zahŕňa posudzovanie zdravotnej spôsobilosti a) uchádzača podľa § 17 ods. 3, b) príslušníka na vykonávanie štátnej služby.
@@ -657,7 +657,7 @@ Odseky 3 až 6 vytvárajú dvojstupňovú inštitucionálnu štruktúru lekársk
 
 ### § 102e
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Prieskumné konanie
 >
 > (1) Prieskumné konanie zamerané na posúdenie zdravotného stavu alebo zmeny zdravotného stavu príslušníka, pri ktorom sa určuje zdravotná spôsobilosť na ďalšie vykonávanie štátnej služby ustanovením zdravotnej klasifikácie a súvislosti choroby alebo úrazu s vykonávaním štátnej služby, vykonáva lekárska komisia. Prieskumné konanie je súčasťou lekárskej posudkovej činnosti.
@@ -674,7 +674,7 @@ Odsek 2 rieši situáciu dlhodobej, hoci nie nevyhnutne definitívnej zmeny zdra
 
 ### § 103
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Služobný príjem, služobný plat a peňažná náhrada za služobnú pohotovosť
 >
 > (1) Príslušníkovi za podmienok ustanovených týmto zákonom patrí služobný príjem, ktorý tvoria tieto zložky: a) tarifný plat, b) príplatok za riadenie, c) príplatok za zastupovanie, d) osobný príplatok, e) hodnostný príplatok, f) plat za štátnu službu nadčas, g) príplatok za zmennosť, h) príplatok za štátnu službu v sťaženom a zdraviu škodlivom prostredí a na miestach s ohrozením života a zdravia, i) odmena, j) doplatok k služobnému platu podľa § 209e.
@@ -693,7 +693,7 @@ Odseky 3 a 4 upravujú osobitné, účelovo vymedzené modifikácie pojmu služo
 
 ### § 104
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Platová trieda
 >
 > (1) Príslušníkovi okrem čakateľa na základe vymenovania do štátnej služby a k nej prislúchajúcej funkcie podľa § 21 ods. 3 sa poskytuje služobný plat v príslušnej platovej triede.
